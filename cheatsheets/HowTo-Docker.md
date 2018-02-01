@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 ## Useful Commands
 
 Remove all images:
