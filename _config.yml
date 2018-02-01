@@ -6,4 +6,4 @@ kramdown:
 future: true
 jailed: false
 gfm_quirks: paragraph_end
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
