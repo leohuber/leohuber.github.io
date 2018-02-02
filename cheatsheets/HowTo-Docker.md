@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
 ## Useful Commands
 
 Remove all images:
@@ -18,6 +13,10 @@ Remove all volumes:
 
     docker volume rm $(docker volume ls |awk '{print $2}')
 
+Connect to a shell in a docker image:
+
+    docker run -it --entrypoint /bin/bash <IMAGE>
+
 Connect to a shell in a running docker container container:
 
     sudo docker exec -i -t <CONTAINER_NAME> /bin/bash
@@ -25,10 +24,6 @@ Connect to a shell in a running docker container container:
 Open Shell on VM (On a Mac):
 
     screen ~/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/tty
-
-Connect to a shell in a running docker container container:
-
-    sudo docker exec -i -t <CONTAINER_NAME> /bin/bash
 
 Save the image:
 
