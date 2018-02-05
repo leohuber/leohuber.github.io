@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 ## Tips and Tricks
 
 Delete a local commit on master not pushed to origin yet
