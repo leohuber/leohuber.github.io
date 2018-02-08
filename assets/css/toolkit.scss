@@ -1,0 +1,14 @@
+---
+---
+
+//
+// Imports
+//
+
+@import "./variables.scss";
+@import "./components.scss";
+
+table {
+  @extend .table;
+  @extend .table-bordered;
+}

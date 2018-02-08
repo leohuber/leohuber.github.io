@@ -3,6 +3,10 @@ encoding: UTF-8
 kramdown:
  input: GFM
  hard_wrap: false
+sass:
+  sass_dir: _sass
+  style: compact
+  sourcemap: true
 future: true
 jailed: false
 gfm_quirks: paragraph_end
