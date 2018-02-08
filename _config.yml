@@ -7,4 +7,3 @@ future: true
 jailed: false
 gfm_quirks: paragraph_end
 exclude: [leohuber_github_io.iml, run_locally.sh]
-remote_theme: leohuber/jekyll-theme-mayla
