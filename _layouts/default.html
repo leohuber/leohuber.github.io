@@ -11,6 +11,7 @@
     <!-- Include the CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/toolkit.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/highlight-default.css?v=' | append: site.github.build_revision | relative_url }}">
 
 </head>
 <body class="with-top-navbar">
@@ -19,9 +20,11 @@
 
 {{ content }}
 
-<!-- Include jQuery (required) and the JS -->
+<!-- Include JS -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="/assets/javascript/toolkit.min.js"></script>
+<script src="/assets/javascript/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 </body>
 </html>
 
