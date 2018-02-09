@@ -1,5 +1,8 @@
 ---
 layout: default
+header: Git
+title: Git Cheatsheet
+description: Git sheet with common tasks, commands and information to help manage version control with git.
 ---
 
 ## Tips and Tricks

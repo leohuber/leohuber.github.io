@@ -1,5 +1,8 @@
 ---
 layout: default
+header: Docker
+title: Docker Cheatsheet
+description: Docker sheet with common tasks, commands and information to help managing docker containers, images, volumes, etc.
 ---
 
 ## Useful Commands
