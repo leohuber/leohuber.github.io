@@ -1,7 +1,3 @@
----
-permalink: /
----
-
 # leohuber.github.iooo
 
 * [HowTo-Ansible](cheatsheets/HowTo-Ansible.md)
