@@ -12,5 +12,7 @@ jailed: false
 gfm_quirks: paragraph_end
 exclude: [leohuber_github_io.iml, run_locally.sh, Gemfile, Gemfile.lock]
 collections:
+  documents:
+    output: true
   cheatsheets:
     output: true
