@@ -6,15 +6,17 @@ layout: default
 <div style="margin: 40px">
     <div class="row">
         {% for item in site.cheatsheets %}
-            <div class="col">
-                <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
-                    <div class="card-header">{{ item.header }}</div>
-                    <div class="card-body">
-                        <h4 class="card-title">{{ item.title }}</h4>
-                        <p class="card-text">{{ item.description }}</p>
+            <a href="{{ item.url }}">
+                <div class="col">
+                    <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
+                        <div class="card-header">{{ item.header }}</div>
+                        <div class="card-body">
+                            <h4 class="card-title">{{ item.title }}</h4>
+                            <p class="card-text">{{ item.description }}</p>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </a>
         {% endfor %}
     </div>
 </div>
