@@ -4,11 +4,11 @@ header: Docker
 title: Docker Cheatsheet
 description: Docker sheet with common tasks, commands and information to help managing docker containers, images, volumes, etc.
 ---
-<div style="margin: 40px">
+<div class="cheatsheet">
     <h2 style="margin-bottom: 20px">Docker Cheatsheet</h2>
     <div class="row">
-        <div class="col">
-            <div class="card bg-secondary mb-6">
+        <div class="col-md-6">
+            <div class="card bg-secondary mb-4">
                 <h4 class="card-header">Remove images</h4>
                 <div class="card-body">
                     <p class="card-text">List all images and remove them:</p>
@@ -21,9 +21,25 @@ docker rmi $(images)</code></pre>
                 </div>
             </div>
         </div>
-        <div class="col">
-            <div class="card text-white bg-secondary mb-6">
-                <div class="card-header">Remove all images</div>
+        <div class="col-md-6">
+            <div class="card bg-secondary mb-4">
+                <h4 class="card-header">Remove all images</h4>
+                <div class="card-body">
+                    <pre><code>docker rmi $(docker images -q)</code></pre>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card bg-secondary mb-4">
+                <h4 class="card-header">Remove all images</h4>
+                <div class="card-body">
+                    <pre><code>docker rmi $(docker images -q)</code></pre>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card bg-secondary mb-4">
+                <h4 class="card-header">Remove all images</h4>
                 <div class="card-body">
                     <pre><code>docker rmi $(docker images -q)</code></pre>
                 </div>
