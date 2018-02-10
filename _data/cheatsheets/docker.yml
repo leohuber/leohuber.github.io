@@ -4,7 +4,7 @@
       class: bash
       code: |
         # list all image ids
-        images = $(docker images -q)
+        images=$(docker images -q)
         # delete images
         docker rmi $images
     - text: One command
@@ -16,7 +16,7 @@
       class: bash
       code: |
         # list all container ids
-        containers = $(docker ps -a -q)
+        containers=$(docker ps -a -q)
         # stop all containers
         docker stop $containers
     - text: Remove all containers
