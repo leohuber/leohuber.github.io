@@ -1,0 +1,10 @@
+- title: Delete a local commit on master not pushed to origin yet
+  snippets:
+    - class: bash
+      code: |
+        # switch branch
+        git checkout SNAPSHOT
+        # delete local master branch
+        git branch -D master
+        # checkout master branch from origin
+        git checkout origin/master -b master
