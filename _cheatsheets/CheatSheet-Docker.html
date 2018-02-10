@@ -7,20 +7,20 @@ description: Docker sheet with common tasks, commands and information to help ma
 <div class="cheatsheet">
     <h2 style="margin-bottom: 20px">Docker Cheatsheet</h2>
     <div class="row">
-        <div class="col-md-6">
-            <div class="card bg-secondary mb-4">
-                <h4 class="card-header">Remove images</h4>
-                <div class="card-body">
-                    <p class="card-text">List all images and remove them:</p>
-                    <pre><code class="bash"># list all images
-images = docker images -q
-# remove the images
-docker rmi $(images)</code></pre>
-                    <p class="card-text">One command:</p>
-                    <pre><code class="bash">docker rmi $(docker images -q)</code></pre>
+        {% for cheat in site.data.cheatsheets.docker %}
+            <div class="col-md-6">
+                <div class="card bg-secondary mb-4">
+                    <h4 class="card-header">{{cheat.title}}</h4>
+                    <div class="card-body">
+                        {% for snippet in cheat.snippets %}
+                        <p class="card-text">{{snippet.text}}</p>
+                        <pre><code class="bash">{{snippet.code}}</code></pre>
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
-        </div>
+        {% endfor %}
+
         <div class="col-md-6">
             <div class="card bg-secondary mb-4">
                 <h4 class="card-header">Remove all images</h4>

@@ -1,0 +1,29 @@
+- title: Remove images
+  snippets:
+    - text: lasdkfj
+      code: |
+        asdfljasdf
+        lkjadsflkjasdf
+        alksdjflaksjdf
+        lkajsdflaksjdflkajsdf
+        lkajsdflkjajsdlkfj alksdjf aldkjf alskdjf aldkfj
+    - text: lasdkfj
+      code: asdfljasdf
+            lkjadsflkjasdf
+            alksdjflaksjdf
+            lkajsdflaksjdflkajsdf
+            lkajsdflkjajsdlkfj alksdjf aldkjf alskdjf aldkfj
+- title: Remove images
+  snippets:
+    - text: lasdkfj
+      code: asdfljasdf
+            lkjadsflkjasdf
+            alksdjflaksjdf
+            lkajsdflaksjdflkajsdf
+            lkajsdflkjajsdlkfj alksdjf aldkjf alskdjf aldkfj
+    - text: lasdkfj
+      code: asdfljasdf
+            lkjadsflkjasdf
+            alksdjflaksjdf
+            lkajsdflaksjdflkajsdf
+            lkajsdflkjajsdlkfj alksdjf aldkjf alskdjf aldkfj
