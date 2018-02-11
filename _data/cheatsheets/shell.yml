@@ -1,0 +1,36 @@
+- title: Shell history
+  snippets:
+    - text: 'To get previous command containing string, hit [CTRL]+[r] followed by search string (Emacs Line-Edit Mode):'
+      class: bash
+      code: '(reverse-i-search):'
+    - text: 'To get previous command, hit [CTRL]+[p]. You can also use up arrow key. To get next command, hit [CTRL]+[n]. You can also use down arrow key.'
+    - text: 'Shell history command'
+      code: |
+        # print the whole history
+        history
+        # show the last 10 entries of the current history with command numbers
+        history 30
+        # delete the entire history
+        history -c
+    - text: List, or edit and re-execute, commands previously entered with fc
+      code: |
+        # edit and re-xecute last command
+        fc
+        # edit and re-xecute without invoking editor
+        fc -s
+        # list last 16 commands
+        fc -l
+        # list the last 30 commands
+        fc -l -30
+        # suppress command numnbers
+        fc -ln -30
+        # list command with number 500 to command with number 510
+        fc -l 500 510
+        # list command with number 510 to command with number 500 (version 1)
+        fc -l 510 500
+        # list command with number 510 to command with number 500 (version 2)
+        fc -lr 500 510
+        # edit and re-execute comand with number 500 without invoking editor
+        fc -s 500
+        # edit and re-execute comands 500 through 510
+        fc 500 510
