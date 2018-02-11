@@ -2,10 +2,3 @@
 permalink: /
 layout: default
 ---
-
-{% for item in site.collections %}
-    <h2>{{ item.label }}</h2>
-        {% for item1 in item.files %}
-            {{ item1 }}
-        {% endfor %}
-{% endfor %}
