@@ -8,3 +8,13 @@
         git branch -D master
         # checkout master branch from origin
         git checkout origin/master -b master
+
+- title: 'Set the current branch head (HEAD) to -3 commits'
+  snippets:
+    - text: 'Set the current branch head (HEAD) to -3 commits and push to origin'
+      class: bash
+      code: |
+        # reset hard and go back 3 commits
+        git reset --hard HEAD~3
+        # force push to origin
+        git push --force
