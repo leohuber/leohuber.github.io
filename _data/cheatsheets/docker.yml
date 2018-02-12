@@ -55,7 +55,7 @@
     - class: bash
       code: docker save your/image &gt; /home/you/some-file.tar
 
-- title: Restore the image
+- title: Restore an image
   snippets:
     - class: bash
       code: docker load &lt; /home/you/some-file.tar
