@@ -18,3 +18,23 @@
         git reset --hard HEAD~3
         # force push to origin
         git push --force
+
+- title: 'Git diff'
+  snippets:
+    - text: 'Options for diff and difftool'
+      class: bash
+      code: |
+        # Diff the repo directory
+        git difftool --dir-diff
+        # Diff all the changed files in the repo directory (one by one)
+        git difftool
+    - text: '.gitconfig Options for difftool and mergetool'
+      code: |
+        [diff]
+                tool = araxis
+        [difftool]
+                prompt = false
+        [merge]
+                tool = araxis
+        [mergetool]
+                prompt = false
