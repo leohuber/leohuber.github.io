@@ -38,3 +38,16 @@
                 tool = araxis
         [mergetool]
                 prompt = false
+
+
+- title: 'Git log'
+  snippets:
+    - text: 'Formatting log output'
+      class: bash
+      code: |
+        # Oneline
+        git log --oneline
+        # Decorated with references, branches, etc
+        git log --oneline --decorate
+        # Graphs
+        git log --graph --oneline --decorate
