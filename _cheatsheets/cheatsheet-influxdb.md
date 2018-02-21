@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cheatsheet
 header: InfluxDB
 title: InfluxDB Cheatsheet
 description: InfluxDB sheet with common tasks, commands and information to help manage an InfluxDB.
