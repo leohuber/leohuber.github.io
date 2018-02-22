@@ -51,4 +51,16 @@ cheats:
           if [ -f ~/.bashrc ]; then
              source ~/.bashrc
           fi
+
+  - title: Command <code>lsof</code> (list open files)
+    snippets:
+      - text: List applications listening on hosts and ports
+        class: bash
+        code: |
+          # List applications listening on port 8080
+          lsof -n -i4TCP:8080
+          # List applications all applications with an open TCP (IPV4) socket
+          lsof -n -i4TCP
+
+
 ---
