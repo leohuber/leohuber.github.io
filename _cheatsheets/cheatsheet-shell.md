@@ -61,6 +61,8 @@ cheats:
           lsof -n -i4TCP:8080
           # List applications all applications with an open TCP (IPV4) socket
           lsof -n -i4TCP
+          # List pids of all applications with an open TCP (IPV4) socket
+          lsof -n -i4TCP -t
 
 
 ---
