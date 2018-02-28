@@ -4,6 +4,14 @@ header: Git
 title: Git Cheatsheet
 description: Git sheet with common tasks, commands and information to help manage version control with git.
 cheats:
+  - title: Git configuration
+    snippets:
+      - text: "There is a global git configuration located in <code>~/.gitconfig</code> and a per project configuration located at <code>&lt;project-path&gt;/.git/config</code>. In order to change the global config edit the corresponding file use the following command"
+        class: bash
+        code: "git config --global &lt;config_setting&gt; &lt;config_value&gt;"
+      - text: "In order to change the per project configuration, navigate into the project directory and use the following command"
+        class: bash
+        code: "git config &lt;config_setting&gt; &lt;config_value&gt;"
   - title: Delete a local commit on master not pushed to origin yet
     snippets:
       - class: bash
@@ -25,6 +33,18 @@ cheats:
           # force push to origin
           git push --force
 
+  - title: 'Git log'
+    snippets:
+      - text: 'Formatting log output'
+        class: bash
+        code: |
+          # Oneline
+          git log --oneline
+          # Decorated with references, branches, etc
+          git log --oneline --decorate
+          # Graphs
+          git log --graph --oneline --decorate
+
   - title: 'Git diff'
     snippets:
       - text: 'Options for diff and difftool'
@@ -44,18 +64,5 @@ cheats:
                   tool = araxis
           [mergetool]
                   prompt = false
-
-
-  - title: 'Git log'
-    snippets:
-      - text: 'Formatting log output'
-        class: bash
-        code: |
-          # Oneline
-          git log --oneline
-          # Decorated with references, branches, etc
-          git log --oneline --decorate
-          # Graphs
-          git log --graph --oneline --decorate
 ---
 
