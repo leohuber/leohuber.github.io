@@ -74,4 +74,10 @@ cheats:
           docker image prune
           docker network prune
           docker volume prune
+
+  - title: Remove dangling images
+    snippets:
+      - class: bash
+        code: docker rmi $(docker images -f "dangling=true" -q)
+
 ---
