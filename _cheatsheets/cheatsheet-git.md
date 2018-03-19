@@ -45,9 +45,9 @@ cheats:
           # Graphs
           git log --graph --oneline --decorate
 
-  - title: 'Git diff'
+  - title: 'Git difftool'
     snippets:
-      - text: 'Options for diff and difftool'
+      - text: 'Options for difftool'
         class: bash
         code: |
           # Diff the repo directory
@@ -64,5 +64,16 @@ cheats:
                   tool = araxis
           [mergetool]
                   prompt = false
+
+  - title: 'Git diff'
+    snippets:
+      - text: 'Options for diff'
+        class: bash
+        code: |
+          # Compare two commits
+          git diff &lt;commit&gt; &lt;commit&gt;
+          # Show only summary of diff
+          git diff --summary
+
 ---
 
