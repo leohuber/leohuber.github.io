@@ -47,13 +47,13 @@ cheats:
 
   - title: 'Git difftool'
     snippets:
-      - text: 'Options for difftool'
+      - text: 'Options for difftool. Git difftool is a frontend to <code>git diff</code> and accepts the same options and arguments.'
         class: bash
         code: |
-          # Diff the repo directory
-          git difftool --dir-diff
           # Diff all the changed files in the repo directory (one by one)
           git difftool
+          # Diff the repo directory
+          git difftool --dir-diff
       - text: '.gitconfig Options for difftool and mergetool'
         code: |
           [diff]
