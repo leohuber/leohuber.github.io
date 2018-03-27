@@ -4,14 +4,26 @@ header: Git
 title: Git Cheatsheet
 description: Git sheet with common tasks, commands and information to help manage version control with git.
 cheats:
+  - title: Fundamental Concepts
+    snippets:
+      - text: "<strong>Working Tree</strong>: The working tree is a single checkout of one version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk to use or modify them."
+      - text: "<strong>Staging Area (Index)</strong>: The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. Its technical name in Git parlance is the 'index'."
+      - text: "<strong>Git Directory (Repository)</strong>: The Git directory is where Git stores the metadata and object database for your project. It is what is copied when you clone a repository from another computer."
+
   - title: Git configuration
     snippets:
-      - text: "There is a global git configuration located in <code>~/.gitconfig</code> and a per project configuration located at <code>&lt;project-path&gt;/.git/config</code>. In order to change the global config edit the corresponding file use the following command"
+      - text: "The Git configuration file contains a number of variables that affect the Git commands' behavior. The <code>.git/config</code> file in each repository is used to store the configuration for that repository, and <code>$HOME/.gitconfig</code> is used to store a per-user configuration as fallback values for the <code>.git/config</code> file. The file <code>/etc/gitconfig</code> can be used to store a system-wide default configuration."
+      - text: "Each configuration file consists of sections and variables. A section and subsection is marked as follows:"
+        code: '[section "subsection"]'
+      - text: "In order to modify a system wide variable (system), a user variable (global) or a project specific variable, use the following command:"
         class: bash
-        code: "git config --global &lt;config_setting&gt; &lt;config_value&gt;"
-      - text: "In order to change the per project configuration, navigate into the project directory and use the following command"
-        class: bash
-        code: "git config &lt;config_setting&gt; &lt;config_value&gt;"
+        code: "git config [--system|--global] &lt;variable&gt; &lt;value&gt;"
+      - text: "Variables use the notation <code>&lt;section&gt;&lt;subsection&gt;&lt;variable&gt;</code>. See <a href='https://git-scm.com/docs/git-config'>variables</a> to find the possible git configuration settings."
+        code: |
+          # set user email and name
+          git config --global user.email &lt;email_address&gt;
+          git config --global user.name &lt;user_name&gt;
+
   - title: Delete a local commit on master not pushed to origin yet
     snippets:
       - class: bash
