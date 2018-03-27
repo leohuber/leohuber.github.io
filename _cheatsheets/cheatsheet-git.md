@@ -82,6 +82,10 @@ cheats:
       - text: 'Options for diff'
         class: bash
         code: |
+          # Compare current working tree to index
+          git diff
+          # Compare current working tree to HEAD
+          git diff HEAD
           # Compare two commits
           git diff &lt;commit&gt; &lt;commit&gt;
           # Show only summary of diff
