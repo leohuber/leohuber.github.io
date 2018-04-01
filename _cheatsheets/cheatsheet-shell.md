@@ -66,7 +66,7 @@ cheats:
 
   - title: TODO
     snippets:
-      - text: shell scripts to document: find, aws, sed
+      - text: "shell scripts to document: find, aws, sed"
 
 
 ---

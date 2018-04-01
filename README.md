@@ -1,22 +1,6 @@
-# leohuber.github.iooo
+# leohuber.github.io
 
-* [HowTo-Ansible](cheatsheets/HowTo-Ansible.md)
-* [HowTo-Docker](cheatsheets/HowTo-Docker.md)
-* [HowTo-Git](cheatsheets/HowTo-Git.md)
-* 
+Install localy:
 
-| something | something other |
-|:----------|:----------------|
-| adsf      | sadfadsf        |
-| asdfasdf  | asdfasdf        |
-
-
-    aldskjf
-
-
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+    sudo gem install bundler
+    sudo bundle install
