@@ -64,5 +64,9 @@ cheats:
           # List pids of all applications with an open TCP (IPV4) socket
           lsof -n -i4TCP -t
 
+  - title: TODO
+    snippets:
+      - text: shell scripts to document: find, aws, sed
+
 
 ---
