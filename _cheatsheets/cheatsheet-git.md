@@ -20,7 +20,7 @@ cheats:
       - text: "In order to modify a system wide variable (system), a user variable (global) or a project specific variable, use the following command:"
         class: bash
         code: "git config [--system|--global] &lt;variable&gt; &lt;value&gt;"
-      - text: "Variables use the notation <code>&lt;section&gt;&lt;subsection&gt;&lt;variable&gt;</code>. See <a href='https://git-scm.com/docs/git-config'>variables</a> to find the possible git configuration settings."
+      - text: "Variables use the notation <code>&lt;section&gt;.&lt;subsection&gt;.&lt;variable&gt;</code>. See <a href='https://git-scm.com/docs/git-config'>variables</a> to find the possible git configuration settings."
         code: |
           # set user email and name
           git config --global user.email &lt;email_address&gt;
