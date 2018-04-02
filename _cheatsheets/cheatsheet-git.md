@@ -5,12 +5,14 @@ title: Git Cheatsheet
 description: Git sheet with common tasks, commands and information to help manage version control with git.
 cheats:
   - title: Fundamental Concepts
+    column: 1
     snippets:
       - text: "<strong>Working Tree</strong>: The working tree is a single checkout of one version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk to use or modify them."
       - text: "<strong>Staging Area (Index)</strong>: The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. Its technical name in Git parlance is the 'index'."
       - text: "<strong>Git Directory (Repository)</strong>: The Git directory is where Git stores the metadata and object database for your project. It is what is copied when you clone a repository from another computer."
 
   - title: Git configuration
+    column: 1
     snippets:
       - text: "The Git configuration file contains a number of variables that affect the Git commands' behavior. The <code>.git/config</code> file in each repository is used to store the configuration for that repository, and <code>$HOME/.gitconfig</code> is used to store a per-user configuration as fallback values for the <code>.git/config</code> file. The file <code>/etc/gitconfig</code> can be used to store a system-wide default configuration."
       - text: "Each configuration file consists of sections and variables. A section and subsection is marked as follows:"
@@ -25,6 +27,7 @@ cheats:
           git config --global user.name &lt;user_name&gt;
 
   - title: Delete a local commit on master not pushed to origin yet
+    column: 1
     snippets:
       - class: bash
         code: |
@@ -36,6 +39,7 @@ cheats:
           git checkout origin/master -b master
 
   - title: 'Set the current branch head (HEAD) to -3 commits'
+    column: 1
     snippets:
       - text: 'Set the current branch head (HEAD) to -3 commits and push to origin'
         class: bash
@@ -46,6 +50,7 @@ cheats:
           git push --force
 
   - title: 'Git log'
+    column: 2
     snippets:
       - text: 'Formatting log output'
         class: bash
@@ -58,6 +63,7 @@ cheats:
           git log --graph --oneline --decorate
 
   - title: 'Git difftool'
+    column: 2
     snippets:
       - text: 'Options for difftool. Git difftool is a frontend to <code>git diff</code> and accepts the same options and arguments.'
         class: bash
@@ -78,6 +84,7 @@ cheats:
                   prompt = false
 
   - title: 'Git diff'
+    column: 2
     snippets:
       - text: 'Options for diff'
         class: bash

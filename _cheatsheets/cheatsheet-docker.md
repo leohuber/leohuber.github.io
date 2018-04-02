@@ -5,6 +5,7 @@ title: Docker Cheatsheet
 description: Docker sheet with common tasks, commands and information to help managing docker containers, images, volumes, etc.
 cheats:
   - title: Remove all images
+    column: 1
     snippets:
       - text: Remove all images
         class: bash
@@ -17,6 +18,7 @@ cheats:
         code: docker rmi $(docker images -q)
 
   - title: Stop and remove all containers
+    column: 1
     snippets:
       - text: Stop all containers
         class: bash
@@ -29,6 +31,7 @@ cheats:
         code: docker rm $(docker ps -a -q)
 
   - title: Remove all volumes
+    column: 1
     snippets:
       - class: bash
         code: |
@@ -37,6 +40,7 @@ cheats:
 
 
   - title: Connect to a shell in a docker image
+    column: 1
     snippets:
       - class: bash
         code: |
@@ -44,6 +48,7 @@ cheats:
           docker run -it --entrypoint /bin/bash &lt;IMAGE_ID&gt;
 
   - title: Connect to a shell in a docker container
+    column: 2
     snippets:
       - class: bash
         code: |
@@ -52,21 +57,25 @@ cheats:
 
 
   - title: Open Shell on VM (On a Mac)
+    column: 2
     snippets:
       - class: bash
         code: screen ~/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/tty
 
   - title: Save an image
+    column: 2
     snippets:
       - class: bash
         code: docker save your/image &gt; /home/you/some-file.tar
 
   - title: Restore an image
+    column: 2
     snippets:
       - class: bash
         code: docker load &lt; /home/you/some-file.tar
 
   - title: Docker prune commands
+    column: 2
     snippets:
       - class: bash
         code: |
@@ -76,6 +85,7 @@ cheats:
           docker volume prune
 
   - title: Remove dangling images
+    column: 2
     snippets:
       - class: bash
         code: docker rmi $(docker images -f "dangling=true" -q)

@@ -5,3 +5,7 @@ In order for IntelliJ to recognize the cheatsheet-*.md files as yaml or yml file
 and add the following pattern to the yaml file type:
 
     cheatsheet-*.md
+
+TODO:
+
+- shell scripts to document: find, aws, sed
