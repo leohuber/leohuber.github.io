@@ -9,3 +9,4 @@ and add the following pattern to the yaml file type:
 TODO:
 
 - shell scripts to document: find, aws, sed
+- shell: document less
