@@ -6,7 +6,12 @@ and add the following pattern to the yaml file type:
 
     cheatsheet-*.md
 
-TODO:
+TODO
+-----
 
+Shell:
 - shell scripts to document: find, aws, sed
 - shell: document less
+
+Vim:
+- modes: http://vimdoc.sourceforge.net/htmldoc/intro.html#Normal
