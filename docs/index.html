@@ -23,15 +23,15 @@ layout: default
                 <div class="card-body">
                     <h6 class="mb-3">CheatSheets</h6>
                     <div>
-                    <ul>
+                    <div class="list-group">
                     {% for item in site.cheatsheets %}
-                        <li>
-                            <a href="{{ item.url }}" style="text-decoration: none ">
+                        <a class="list-group-item" href="{{ item.url }}" style="text-decoration: none ">
+
                                 {{ item.title }}
-                            </a>
-                        </li>
+
+                        </a>
                     {% endfor %}
-                    </ul>
+                    </div>
                     </div>
                 </div>
             </div>
