@@ -9,9 +9,11 @@ and add the following pattern to the yaml file type:
 TODO
 -----
 
-Shell:
-- shell scripts to document: find, aws, sed
-- shell: document less
+* cheat sheet about influxdb commands
 
-Vim:
-- modes: http://vimdoc.sourceforge.net/htmldoc/intro.html#Normal
+* Shell:
+    * shell scripts to document: find, aws, sed
+    * shell: document less
+
+* Vim:
+ * modes: http://vimdoc.sourceforge.net/htmldoc/intro.html#Normal
