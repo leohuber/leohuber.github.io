@@ -21,7 +21,18 @@ layout: default
             </div>
             <div class="card card-link-list mb-4">
                 <div class="card-body">
-                    TODO List all Cheat Sheets
+                    <h6 class="mb-3">CheatSheets</h6>
+                    <div>
+                    <ul>
+                    {% for item in site.cheatsheets %}
+                        <li>
+                            <a href="{{ item.url }}" style="text-decoration: none ">
+                                {{ item.title }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                    </div>
                 </div>
             </div>
 

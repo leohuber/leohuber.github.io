@@ -55,6 +55,18 @@ cheats:
           # edit and re-execute comands 500 through 510
           fc 500 510
 
+  - title: Variables and environment variables
+    column: 1
+    snippets:
+      - text: Set or unset environment variables
+        code: |
+          # Create a shell variable
+          SOME_ENV_VAR=VALUE
+          # Create a environment variable
+          export SOME_ENV_VAR=VALUE
+          # Unset a variable or environment variable
+          unset SOME_ENV_VAR
+
   - title: Command <code>lsof</code> (list open files)
     column: 2
     snippets:
@@ -67,17 +79,5 @@ cheats:
           lsof -n -i4TCP
           # List pids of all applications with an open TCP (IPV4) socket
           lsof -n -i4TCP -t
-
-  - title: Variables and environment variables
-    column: 2
-    snippets:
-      - text: Set or unset environment variables
-        code: |
-          # Create a shell variable
-          SOME_ENV_VAR=VALUE
-          # Create a environment variable
-          export SOME_ENV_VAR=VALUE
-          # Unset a variable or environment variable
-          unset SOME_ENV_VAR
 
 ---
