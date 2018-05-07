@@ -62,6 +62,19 @@ cheats:
           # Graphs
           git log --graph --oneline --decorate
 
+  - title: 'Git checkout'
+    column: 2
+    snippets:
+      - text: 'Command to switch branches or restore working tree files'
+        class: bash
+        code: |
+          # Create new branch and point HEAD at the branch
+          git checkout -b &lt;branch&gt;
+          # Checkout branch and perform 3-way merge with local changes
+          git checkout -m &lt;branch&gt;
+          # Revert changes to a file
+          git checkout -- &lt;file&gt;
+
   - title: 'Git difftool'
     column: 2
     snippets:
