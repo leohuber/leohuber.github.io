@@ -7,6 +7,6 @@ description: Extraction and summary of the book "Tao of Coaching" of Max Landsbe
 
 # Tao of Coaching
 
-## Introduction
+## Asking versus telling
 
     rm -v aaa
