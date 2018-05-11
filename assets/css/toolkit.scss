@@ -12,15 +12,3 @@ table {
   @extend .table;
   @extend .table-bordered;
 }
-
-@include media-breakpoint-up(sm) {
-  .cheatsheet {
-    margin: 40px;
-  }
-}
-
-@include media-breakpoint-down(sm) {
-  .cheatsheet {
-    margin: 40px 10px 40Px;
-  }
-}
