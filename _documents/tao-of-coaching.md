@@ -9,7 +9,9 @@ description: Extraction and summary of the book "Tao of Coaching" of Max Landsbe
 
 ## Asking versus telling
 
-Coaching can be done in different ways depending on the situation, the skills of the coachee or the task to be done, coaching can be done by:
+<img width="150px" data-width="10" data-height="10" data-action="zoom" src="../assets/img/documents/asking_vs_telling.jpg">
+
+Coaching can be done in different ways depending on the situation, the skills of the coachee or the task to be completed, coaching can be achieved by:
 
 * Asking questions
 * Make suggestions
