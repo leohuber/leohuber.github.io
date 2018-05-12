@@ -1,13 +1,11 @@
 ---
 layout: document
-header: Meditation
-title: Meditation
-description: Some remarks and hints on special topics related to meditation
+header: Stress
+title: Stress
+description: Einführungstexte des 7mind Kurses über Stress 
 ---
 
-# Meditation
-
-## Stress
+# Stress
 
 ### Was ist Stress?
 
@@ -62,7 +60,4 @@ Meditation kann unseren Blick auf die Welt und auf uns selbst grundlegend verän
 ### Sich Zeit schenken lassen
 
 Wie oft haben wir das Gefühl einfach zu wenig Zeit zu haben und das stresst uns. Vieleicht hast Du schon einmal versucht das Zeitproblem in den Griff zu bekomen durch Ordnung. Mit genügend Disziplin führt das immerhin dazu, dass wir vieleicht am Ende des Tages das vermeintlich wichtigste abgearbeitet haben. Aber ist das wirklich lebendig? Macht uns das entspannt? Oder gar zufrieden? Wahrscheinlich nicht, denn je mehr wir versuchen das Leben in eine Struktur zu pressen umso mehr zieht es an uns vorbei. Meistens wissen wir sehr genau, dass wir wesentliches verpassen und das führt dazu, dass wir uns letztlich doch wieder gestresst fühlen. Richtig ist dagegen: Zeit ist immer! Wir müssen sie nur in ihrer Qualität wahrnehmen, dann wir sie uns sogar geschenkt.
-
-## Angst
-
 

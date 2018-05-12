@@ -78,3 +78,7 @@ strong {
 .app-brand img {
   width: 100%;
 }
+
+.document ol {
+  padding-left: 40px;
+}
