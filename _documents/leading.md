@@ -53,56 +53,90 @@ Each of these options has its advantages and disadvantages. The coach might have
 * Time constraints
 * Failure tolerance
 
-#### Fragetechniken
+### STAR Formel
 
-##### Offene Fragen
+#### Situation
 
-Offene Fragen werden eingesetzt um möglichst viele Informationen zu erhalten. Zum Beispiel "Was ist Ihnen wichtig"?
+Als Basis für die anstehende Weiterentwicklung dienen die Fakten oder Resultate. Bei Minderleistungen geht es darum herauszufinden welches persönliche Verhalten dazu geführt hast, dass die Leistung nicht erbracht wurde.
 
-##### Geschlossene Fragen
+* Was ist die Ausgangssituation?
+* Was hat dazu geführt, dass das Ziel nicht erreicht wurde?
 
-Geschlossene Fragen werden verwendet, wenn eine klare Antwort erwartet wird (Fakten) oder wenn es darum geht, aufgenommene Informationen bestätigen zu lassen.
+#### Target
 
-##### Alternativfragen
+Bevor irgendwelche Aktvivitäten definiert und eingeleitet werden, ist es von zentraler Bedeutung, zuerst ein klares Zielfoto "Target" zu formulieren. Das heisst, zu beschreiben, was in ein paar Wochen / Monaten konkret anders sein wird oder sein soll. Es geht in diesem Punkt weniger um konkrete Produktionsziele, sonder um zu entwickelnde Fähigkeiten des Coaches. Das Target kann sowohl vom Coachee als auch vom Coach (falls Vorgesetzter) formuliert werden.
 
-Alternativfragen werden eingesetzt, um eine Entscheidung zu erhalten. Dabei ist darauf zu achten, dass diese Antwort positiv ist. Zum Beispiel "Möchten Sie lieber über ... oder über ... sprechen?"
+* Wie sieht der angestrebte Zustand aus?
+* Was konkret wird zum Zeitpunkt X anders sein?
+* Was möchten Sie in X Wochen sagen können?
 
-##### Echo-Fragen
+#### Actions
 
-Mit [Echo-Fragen](https://de.wikipedia.org/wiki/Echo-Technik) kommen sie mehr in die Tiefe. Beispiel:
+Um das Target zu erreichen, sind konkrete und verbindliche Aktivitäten notwendig. In dieser Phase geht es darum, die zielführendsten Tätigkeiten konkret auszuarbeiten. Zwecks Nachhaltigkeit und Motiviation sollte der Coachee wenn immer möglich die Aktivitäten selbst entwickeln. Allenfalls kann der Coache mit hypothetischen Fragen und Vorschlägen etwas nachhelfen.
 
-Coachee: "Ich bin gestresst."
-Coach: "Was bedeutet für Sie gestresst sein?"
+* Was müssen Sie tun, um das Target zu erreichen?
+* Wie möchten Sie konkret vorgehen?
+* Was können Sie sonst noch tun .... ?
+* .... und was auch noch?
 
-#### Aktives Zuhören
+#### Result
 
-Unter [aktivem Zuhören](https://de.wikipedia.org/wiki/Aktives_Zuh%C3%B6ren) wird in der interpersonellen Kommunikation die gefühlsbetonte (affektive) Reaktion eines Gesprächspartners auf die Botschaft eines Sprechers verstanden.
+Eine klare Zielvereinbarung machen und terminieren.
 
-##### Aufnehmendes Zuhören
+* TODO
 
-Sie selbst sagen wenig oder nichts und konzentrieren sich auf das, was Ihr Kommunikationspartner sagt. Durch Blickkontakt, Aufmerksamkeitslaute und das Spiegeln der Emotionen Ihres Gesprächspartners zeigen Sie, dass Sie aktiv am Gespräch teilnehmen. Natürlich sagen Sie ab und zu auch etwas. Diese Art des Zuhörens bewährt sich sehr gut, wenn der Kommunikationspartner sehr emotional ist.
+## Feedback geben
 
-* Blickkontakt
-* nicken
-* mmmh, ja, aha, ich verstehe
-* unterstützendes gelegentliches Nachfragen
+Feedback Prozess:
 
-##### Paraphrasieren
+1. Abholen beim Gegenüber, wie er/sie eine Situation einschätzt. "Wie siehst Du die aktuelle Situation im Thema?"
+2. An Aussagen des Gegenübers anknüpfen und eigenes Feedback (FEZ) geben. "Danke für Deine Einschätzung, Wenn ich Dich richtig verstehe, dann ... meine Beobachtung ist ...".
+3. Beim Gegenüber nachfrage, wie er/sie das Feedback verstanden hat. "Was nimmst Du für Dich aus dem Feedback mit?"
 
-Beim „Paraphrasieren“ wiederholen Sie mit eigenen Worten Informationen oder Argumente des Kommunikationspartners. Formulieren Sie hierbei am besten die Frageform, um eventuell eine Korrektur zu ermöglichen. („Habe ich Sie richtig verstanden, dass…..? Meinten Sie ….? Haben Sie dies….gemeint?“) Das Wiederholen hilft Missverständnisse auszuschließen und Sie gewinnen Zeit, um sich in Ruhe eine gute Antwort zu überlegen.
+#### Fedback geben: Was mache ich wenn ..
 
-* nachfragen
-* wiederholen
-* Zusammenfassen in eigenen Worten
+###### der die Mitarbeitende sich rechtfertigt ....
 
-##### Verbalisieren
+Es ist wichtig, bereits im Vorfeld des Feedbacks dem Mitarbeiter zu sagen, dass er/sie sich im Feedback nicht rechtfertigen muss. Sollte der Mirarbeitende sich rechtfertigen sollte man ihn unterbrechen: "Ich möcht Dir meine Wahrnehmung mitteilen, Du musst Dich nicht rechtfertigen".
 
-Hier gehen Sie auf die emotionalen, versteckten Botschaften des Gesprächs ein. Sie geben mit eigenen Worten die vermutlichen Stimmungen und Emotionen des Gesprächspartners wieder. Dies gilt nur, wenn die Gesprächssituation dies zulässt. Achten Sie dabei auf die Zwischentöne. Nicht was gesagt wird ist interessant, sondern vor allem, wie es gesagt wird. Hier ist der Tonfall, die Sprechweise und Sprechtempo gemeint. Wichtig ist, dass es sich hier um Ihre Wahrnehmung handelt und Sie bereit sind, Korrekturen und Widerspruch anzunehmen. Formulieren Sie weicher: „ Ich habe den Eindruck, dass…“ „ Es kommt mir so vor, als ob….“. „ Ich habe das Gefühl, als ob…“.
+Sich rechtfertigen und eine anschliessende Diskussion, Lösungsfindung oder gar eine Begründung ist nicht ganz das gleiche. Eine Rechtfertigung ist eine einseitige Argumentation und eine Abwehrhaltung. Durch eine Rechtfertigung versuchen wir eine unserer Meinung nach richtige Handlung zu erklären. Sie soll andere Menschen davon überzeugen, dass wir Recht haben – wir „fertigen“ quasi unser Recht.
+
+Die Rechtfertigung kommt aus einer Haltung, in der Du Dich entweder kleiner machst als du bist oder grösser:
+
+* sie hat einen Unterton von Entschuldigung
+* oder einen von Trotz
+* oder auch von Aggression und Empörung
+* und hat meist ein schlechtes Gewissen im Fahrwasser
+
+Der Unterschied zwischen einer Begründung und einer Rechtfertigung liegt in der inneren Haltung mit der man Erklärt warum die Dinge so sind wie sie sind. Es kann sich im strengsten Fall sogar um ein und denselben Satz handeln. Einmal wird er als Begründung gesendet, beim anderen Mal als Rechtfertigung.
+
+Eine Begründung kommt jeweils auf Augenhöhe daher:
+
+* sie ist eine klare Aussage
+* sie erklärt was warum geschehen ist oder geschehen soll
+* sie entspringt einem reinen Gewissen
+* sie kennt das Konzept der Schuldzuweisung nicht
+
+###### .... der/die Mitarbteitende in Gedanken versunken ist
+
+Mitarbeitende verarbeiten unmittelbar die Rückmeldungen und können so fot das Feedback gar nicht bis zum Schluss verfolgen. In diesem Fall den Mitarbeitenden darauf ansprechen: "Irgendwie habe ich das Gefühl, dass Du gerade in Gedanken versunken bist. An was denkst Du im Moment?"
+
+#### FEZ Formel
+
+##### Fakten
+
+Was habe ich wahrgenommen, gesehen, gehört? Mit beweisbaren Fakten kommunizieren und persönliche Interpretationen oder Pauschalaussagen vermeiden.
+
+##### Emotion
+
+Die eigenen Gefühle explizit benennen und versuchen zu beschreiben was die Beobachtung konkret ausgelöst hat. Zum Beispiel "Es freut, belastet, irritiert, überrrascht micht ....".
+
+##### Ziel
+
+Geben Sie dem Feedbacknehmer konkrete Empfehlungen, wie er eine Aufgabe besser lösen kann. Als Feedbackgeber ist es empfehlensert zu fragen, was vom Feedback verstanden wurde. Zum Beispiel "Ich empfehle Dir, ich erwarte von Dir, Ich wünsche mir ....".
 
 
-* Zusammenfassen von Botschaften jenseits der Sachinformation
-* Gefühle verstehen und spiegeln. Zum Beispiel "Sie sind besorgt!"
-* Verbalisieren von Nicht-Gesagtem und Gefühlen
+
 
 
 
