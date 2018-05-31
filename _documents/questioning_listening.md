@@ -64,7 +64,7 @@ Auf bei der verbalisierunden Frage handelt es sich um eine technik des akiven Zu
 
 Unter [aktivem Zuhören](https://de.wikipedia.org/wiki/Aktives_Zuh%C3%B6ren) wird in der interpersonellen Kommunikation die gefühlsbetonte (affektive) Reaktion eines Gesprächspartners auf die Botschaft eines Sprechers verstanden.
 
-##### Aufnehmendes Zuhören
+### Aufnehmendes Zuhören
 
 Sie selbst sagen wenig oder nichts und konzentrieren sich auf das, was Ihr Kommunikationspartner sagt. Durch Blickkontakt, Aufmerksamkeitslaute und das Spiegeln der Emotionen Ihres Gesprächspartners zeigen Sie, dass Sie aktiv am Gespräch teilnehmen. Natürlich sagen Sie ab und zu auch etwas. Diese Art des Zuhörens bewährt sich sehr gut, wenn der Kommunikationspartner sehr emotional ist.
 
@@ -73,7 +73,7 @@ Sie selbst sagen wenig oder nichts und konzentrieren sich auf das, was Ihr Kommu
 * mmmh, ja, aha, ich verstehe
 * unterstützendes gelegentliches Nachfragen
 
-##### Paraphrasieren
+### Paraphrasieren
 
 Beim „Paraphrasieren“ wiederholen Sie mit eigenen Worten Informationen oder Argumente des Kommunikationspartners. Formulieren Sie hierbei am besten die Frageform, um eventuell eine Korrektur zu ermöglichen. („Habe ich Sie richtig verstanden, dass…..? Meinten Sie ….? Haben Sie dies….gemeint?“) Das Wiederholen hilft Missverständnisse auszuschließen und Sie gewinnen Zeit, um sich in Ruhe eine gute Antwort zu überlegen.
 
@@ -81,7 +81,7 @@ Beim „Paraphrasieren“ wiederholen Sie mit eigenen Worten Informationen oder 
 * wiederholen
 * Zusammenfassen in eigenen Worten
 
-##### Verbalisieren
+### Verbalisieren
 
 Hier gehen Sie auf die emotionalen, versteckten Botschaften des Gesprächs ein. Sie geben mit eigenen Worten die vermutlichen Stimmungen und Emotionen des Gesprächspartners wieder. Dies gilt nur, wenn die Gesprächssituation dies zulässt. Achten Sie dabei auf die Zwischentöne. Nicht was gesagt wird ist interessant, sondern vor allem, wie es gesagt wird. Hier ist der Tonfall, die Sprechweise und Sprechtempo gemeint. Wichtig ist, dass es sich hier um Ihre Wahrnehmung handelt und Sie bereit sind, Korrekturen und Widerspruch anzunehmen. Formulieren Sie weicher: „ Ich habe den Eindruck, dass…“ „ Es kommt mir so vor, als ob….“. „ Ich habe das Gefühl, als ob…“.
 
