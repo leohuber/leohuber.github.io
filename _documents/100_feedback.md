@@ -1,35 +1,35 @@
 ---
 layout: document
-header: Feedback Approaches
-title: Feedback Approaches
-description: Common approaches for giving feedback
+header: Feedback
+title: Feedback
+description: Theory and common approaches and for giving honest, correct and fair feedback
 ---
 
 # Feedback
 
-Feedback Prozess:
+## Feedback Prozess
 
 1. Abholen beim Gegenüber, wie er/sie eine Situation einschätzt. "Wie siehst Du die aktuelle Situation im Thema?"
 2. An Aussagen des Gegenübers anknüpfen und eigenes Feedback (FEZ) geben. "Danke für Deine Einschätzung, Wenn ich Dich richtig verstehe, dann ... meine Beobachtung ist ...".
 3. Beim Gegenüber nachfrage, wie er/sie das Feedback verstanden hat. "Was nimmst Du für Dich aus dem Feedback mit?"
 
-# FEZ Formel
+## FEZ Formel
 
-## Fakten
+### Fakten
 
 Was habe ich wahrgenommen, gesehen, gehört? Mit beweisbaren Fakten kommunizieren und persönliche Interpretationen oder Pauschalaussagen vermeiden.
 
-## Emotion
+### Emotion
 
 Die eigenen Gefühle explizit benennen und versuchen zu beschreiben was die Beobachtung konkret ausgelöst hat. Zum Beispiel "Es freut, belastet, irritiert, überrrascht micht ....".
 
-## Ziel
+### Ziel
 
 Geben Sie dem Feedbacknehmer konkrete Empfehlungen, wie er eine Aufgabe besser lösen kann. Als Feedbackgeber ist es empfehlensert zu fragen, was vom Feedback verstanden wurde. Zum Beispiel "Ich empfehle Dir, ich erwarte von Dir, Ich wünsche mir ....".
 
-# Fedback geben: Was mache ich wenn ..
+## Fedback geben: Was mache ich wenn ..
 
-### der die Mitarbeitende sich rechtfertigt ....
+#### der die Mitarbeitende sich rechtfertigt ....
 
 Es ist wichtig, bereits im Vorfeld des Feedbacks dem Mitarbeiter zu sagen, dass er/sie sich im Feedback nicht rechtfertigen muss. Sollte der Mirarbeitende sich rechtfertigen sollte man ihn unterbrechen: "Ich möcht Dir meine Wahrnehmung mitteilen, Du musst Dich nicht rechtfertigen".
 
@@ -51,17 +51,17 @@ Eine Begründung kommt jeweils auf Augenhöhe daher:
 * sie entspringt einem reinen Gewissen
 * sie kennt das Konzept der Schuldzuweisung nicht
 
-### .... der/die Mitarbteitende in Gedanken versunken ist
+#### .... der/die Mitarbteitende in Gedanken versunken ist
 
 Mitarbeitende verarbeiten unmittelbar die Rückmeldungen und können so fot das Feedback gar nicht bis zum Schluss verfolgen. In diesem Fall den Mitarbeitenden darauf ansprechen: "Irgendwie habe ich das Gefühl, dass Du gerade in Gedanken versunken bist. An was denkst Du im Moment?"
 
-### ... der/die Mitarbeitende sich weigert auf das Feedback einzugehen
+#### ... der/die Mitarbeitende sich weigert auf das Feedback einzugehen
 
 Der Mitarbeiter weicht aus und verharmlost das Thema mit einfachen Sätzen - z.B. das ist doch alles kein Problem. Ein Gespräch über das eigentliche Feedback findet nicht statt.
 
 Reaktion: TODO
 
-### ... der/die Mitarbeitende ist völlig uneinsichtig
+#### ... der/die Mitarbeitende ist völlig uneinsichtig
 
 Der Mitarbeiter weigert sich ein Problem zu erkennen oder das Feedback ernst zu nehmen. Das Gespräch dreht sich im Kreis.
 

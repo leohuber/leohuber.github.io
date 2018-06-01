@@ -1,8 +1,8 @@
 ---
 layout: document
-header: Leading Approaches
-title: Leading Approaches
-description: Common approaches for leading teams and peoples
+header: Coaching
+title: Coaching
+description: Common approaches for coaching teams and peoples
 ---
 
 # Coaching
