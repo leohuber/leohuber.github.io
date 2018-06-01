@@ -7,7 +7,7 @@
 
 .document h1 {
     display: block;
-    font-size: 1.5em;
+    font-size: 1.8em;
     margin-top: 0.67em;
     margin-bottom: 0.67em;
     margin-left: 0;
@@ -17,6 +17,16 @@
 
 .document h2 {
     display: block;
+    font-size: 1.5em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.document h3 {
+    display: block;
     font-size: 1.4em;
     margin-top: 0.83em;
     margin-bottom: 0.83em;
@@ -25,7 +35,7 @@
     font-weight: normal;
 }
 
-.document h3 {
+.document h4 {
     display: block;
     font-size: 1.17em;
     margin-top: 1em;
