@@ -53,11 +53,11 @@ Eine Begründung kommt jeweils auf Augenhöhe daher:
 
 #### .... der/die Mitarbteitende in Gedanken versunken ist
 
-Mitarbeitende verarbeiten unmittelbar die Rückmeldungen und können so fot das Feedback gar nicht bis zum Schluss verfolgen. In diesem Fall den Mitarbeitenden darauf ansprechen: "Irgendwie habe ich das Gefühl, dass Du gerade in Gedanken versunken bist. An was denkst Du im Moment?"
+Mitarbeitende verarbeiten unmittelbar die Rückmeldungen und können so oft das Feedback gar nicht bis zum Schluss verfolgen. In diesem Fall den Mitarbeitenden darauf ansprechen: "Irgendwie habe ich das Gefühl, dass Du gerade in Gedanken versunken bist. An was denkst Du im Moment?"
 
 #### ... der/die Mitarbeitende sich weigert auf das Feedback einzugehen
 
-Der Mitarbeiter weicht aus und verharmlost das Thema mit einfachen Sätzen - z.B. das ist doch alles kein Problem. Ein Gespräch über das eigentliche Feedback findet nicht statt.
+Der Mitarbeiter weicht aus und verharmlost das Thema mit einfachen Sätzen - z.B. " ... das ist doch alles kein Problem!". Ein Gespräch über das eigentliche Feedback findet nicht statt.
 
 Reaktion: TODO
 
