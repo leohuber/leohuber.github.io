@@ -1,8 +1,8 @@
 ---
 layout: document
-header: Coaching
-title: Coaching
-description: Common approaches for coaching teams and peoples
+header: Conflicts
+title: Conflicts
+description: Common approaches for resolving conflicts with teams and peoples
 ---
 
 # Konflikte
@@ -22,3 +22,8 @@ Ein Konflikt kann über 3 unterschiedliche Dimensionen gelöst werden:
 | * Bestimmungen | * Beziehungne             | * Erarbeiten von Lösungen |
 
 
+## Konflikte lösen
+
+### EVA
+
+TODO

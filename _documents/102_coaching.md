@@ -18,25 +18,23 @@ Zu beachten gilt es
 * Es kann nur eine Verhaltensentwicklung auf einmal gechoached werden
 * Kleine Schritte sind motivierend und sind nachhaltig
 
-## Eigenschaften eines Coaches
+### Eigenschaften eines Coaches
 
-### Ingorant
+#### Ingorant
 
 * Stellt viele Fragen und gibt keine Lösungen vor
 * Bleibt neutral
 
-### Schizophren
+#### Schizophren
 
 * Stellt die gleichen Fragen von verschiedenen Blickwinkeln aus
 
-### Sadistisch
+#### Sadistisch
 
 * Lässt nicht locker
 * bohrt nach und stellt auch unangenehme Fragen
 
 ## Asking versus telling
-
-<img width="150px" data-width="10" data-height="10" data-action="zoom" src="../assets/img/documents/asking_vs_telling.jpg">
 
 Coaching can be done in different ways depending on the situation, the skills of the coachee or the task to be completed, coaching can be achieved by:
 
@@ -53,7 +51,11 @@ Each of these options has its advantages and disadvantages. The coach might have
 * Time constraints
 * Failure tolerance
 
-### STAR Formel
+<div class="mb-4 mt-4 mx-auto d-flex justify-content-center flex-wrap">
+<img class="border" width="150px" data-width="10" data-height="10" data-action="zoom" src="../assets/img/documents/asking_vs_telling.jpg">
+</div>
+
+## STAR Formel
 
 #### Situation
 
@@ -64,7 +66,7 @@ Als Basis für die anstehende Weiterentwicklung dienen die Fakten oder Resultate
 
 #### Target
 
-Bevor irgendwelche Aktvivitäten definiert und eingeleitet werden, ist es von zentraler Bedeutung, zuerst ein klares Zielfoto "Target" zu formulieren. Das heisst, zu beschreiben, was in ein paar Wochen / Monaten konkret anders sein wird oder sein soll. Es geht in diesem Punkt weniger um konkrete Produktionsziele, sonder um zu entwickelnde Fähigkeiten des Coaches. Das Target kann sowohl vom Coachee als auch vom Coach (falls Vorgesetzter) formuliert werden.
+Bevor irgendwelche Aktvivitäten definiert und eingeleitet werden, ist es von zentraler Bedeutung, zuerst ein klares Zielfoto "Target" zu formulieren. Das heisst, zu beschreiben, was in ein paar Wochen / Monaten konkret anders sein wird oder sein soll. Es geht in diesem Punkt weniger um konkrete Produktionsziele, sonder um zu entwickelnde Fähigkeiten des Coachees. Das Target kann sowohl vom Coachee als auch vom Coach (falls Vorgesetzter) formuliert werden.
 
 * Wie sieht der angestrebte Zustand aus?
 * Was konkret wird zum Zeitpunkt X anders sein?
@@ -79,12 +81,9 @@ Um das Target zu erreichen, sind konkrete und verbindliche Aktivitäten notwendi
 * Was können Sie sonst noch tun .... ?
 * .... und was auch noch?
 
-#### Result
+#### Result & Resources
 
-Eine klare Zielvereinbarung machen und terminieren.
-
-* TODO
-
+Eine klare Zielvereinbarung machen und terminieren. Klären welche Resourcen der Coachee braucht um die Ziele zu erreichen.
 
 
 
