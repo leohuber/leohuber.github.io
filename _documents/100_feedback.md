@@ -51,7 +51,7 @@ Eine Begründung kommt jeweils auf Augenhöhe daher:
 * sie entspringt einem reinen Gewissen
 * sie kennt das Konzept der Schuldzuweisung nicht
 
-#### .... der/die Mitarbteitende in Gedanken versunken ist
+#### .... der/die Mitarbeitende in Gedanken versunken ist
 
 Mitarbeitende verarbeiten unmittelbar die Rückmeldungen und können so oft das Feedback gar nicht bis zum Schluss verfolgen. In diesem Fall den Mitarbeitenden darauf ansprechen: "Irgendwie habe ich das Gefühl, dass Du gerade in Gedanken versunken bist. An was denkst Du im Moment?"
 
