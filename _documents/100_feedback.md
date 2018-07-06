@@ -2,7 +2,7 @@
 layout: document
 header: Feedback
 title: Feedback
-description: Theory and common approaches and for giving honest, correct and fair feedback
+description: Concepts and common approaches and for giving honest, correct and fair feedback
 ---
 
 # Feedback

@@ -2,7 +2,7 @@
 layout: document
 header: Questioning and Listening
 title: Questioning and Listening
-description: Theory and common approaches for questioning and listening
+description: Concepts and common approaches for questioning and listening
 ---
 
 # Fragen und Zuhören
