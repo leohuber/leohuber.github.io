@@ -60,12 +60,16 @@ Diese Gedanken führen zurück zur Frage nach dem Ideal: Wie kommuniziere ich ri
 
 #### Wesensgemäss
 
-TODO S. 27
+Wesensgemäss bedeutet, in Übereinstimmung mit mir selbst zu handeln, mit meinen Werten und Prioritäten, mit meinen Eigenarten und Gefühlen und vorallem auch mit meinem Selbstverständnis in der Rolle als Führungskraft, sodass ich wirklich zu dem stehen kann, was ich tue und sage. Mein Führungsverhalten muss zu mir passen und darf kein aufgesetztes, vielleicht nur antrainiertes Verhalten sein.
+
+Sich wesensgemäss zu verhalten setzt also ein gewisses Mass an Klarheit darüber voraus, welche Gefühle sich in mir regen, welche Gedanken mich beschäftigen, an welchen Werten ich mich orientiere und wie ich meine Rolle als Führungskraft ausfüllen will.
+
+"Menschenführung beginnt mit mir selbst - hört da aber nicht auf", denn sich einzig und allein daran zu orientieren, was einem selbst entspricht, kann durchaus dazu führen, dass man sich "daneben", der Situation unangemessen verhält.
 
 #### Situationsgerecht
 
-TODO
+Situationsgerecht heisst, in Übereinstimmung mit dem äusseren Kontext zu handeln, mit der aktuellen Situation und dem gesamten System, in dem ich mich bewege. Ich muss mich also nicht nur darauf besinnen, was mir selbst entspricht, sondern auch darauf was meinem Gegenüber gerecht wird, der ja ebenfalls in einer bestimmten inneren Verfassung ist, vielleicht gerade sehr aufgeregt, ärgerlich, frustriert oder begeistert.
 
 #### Metakommunikativ
 
-TODO
+Gelingt es mir, mich nach meiner eigenen Einschätzung stimmig zu verhalten, heisst das natürlich noch nicht, dass dieses Verhalten auch allen meinen Rollenpartnern gerecht werden muss. Die Auseinandersetzung über die Wirkung meines Führungsverhaltens steht also noch aus. Das Führungsverhalten zu überprüfen heisst im übrigen jedoch nicht, dass man es allen recht machen muss, sondern dass man etwas darüber erfährt, mit welchen positiven oder negativen Reaktionen auf das Führungsverhalten man umgehen muss.
