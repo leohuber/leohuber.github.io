@@ -35,3 +35,27 @@ Angst ist vorallem desshalb so beunruhigend, weils sie uns meistens unerwartet �
 ### Angstfrei leben
 
 Was wäre, wenn Du keine Angst hättest? Was für ein Leben würdest Du dann führen? Welche Dinge würdest Du dann tun? Es fällt uns schwer uns eine solche Freiheit überhaupt vorstellen zu können. Die kleinen Ängste des Alltags die wir meist gar nicht mehr bewusst wahrnehmen haben uns so im Griff, dass wir oft wie mit angezogener Handbremse durchs leben schleichen. Was für Möglichkeiten und Chancen warten dagegen auf uns jenseits dieser Angst.
+
+## Grundlagen der Kommunikationspsychologie
+
+### Das Kommunikationsquadrat
+
+TODO S. 33
+
+### Teufelskreise
+
+TODO S. 41
+
+### Das innere Team
+
+TODO S. 45
+
+### Das Werte- und Entwicklungsquadrat
+
+TODO S. 52
+
+### Situationsmodell
+
+TODO S. 59
+
+
