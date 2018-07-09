@@ -2,7 +2,8 @@
 layout: document
 header: Stress
 title: Stress
-description: Einführungstexte des 7mind Kurses über Stress 
+description: Einführungstexte des 7mind Kurses über Stress
+category: 110
 ---
 
 # Stress

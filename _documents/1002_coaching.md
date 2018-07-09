@@ -3,6 +3,7 @@ layout: document
 header: Coaching
 title: Coaching
 description: Common approaches for coaching teams and peoples
+category: 100
 ---
 
 # Coaching

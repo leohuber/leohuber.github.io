@@ -3,6 +3,7 @@ layout: document
 header: Conflicts
 title: Conflicts
 description: Common approaches for resolving conflicts with teams and peoples
+category: 100
 ---
 
 # Konflikte

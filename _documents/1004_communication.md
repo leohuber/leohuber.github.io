@@ -3,6 +3,7 @@ layout: document
 header: Communication
 title: Communication
 description: Theory and practice related to communication (according to Friedemann Schulz von Thun)
+category: 100
 ---
 
 # Kommunikation
