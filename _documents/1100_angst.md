@@ -40,7 +40,30 @@ Was wäre, wenn Du keine Angst hättest? Was für ein Leben würdest Du dann fü
 
 ### Das Kommunikationsquadrat
 
-TODO S. 33
+Wenn ich als Mensch, wenn ich als Führungskraft etwas von mir gebe, bin ich auf vierfache Weise wirksam. Jede meiner Äusserungen enthält, ob ich will oder nicht, vier Botschaften gleichzeitig:
+
+* eine Sachinformation (worüber ich informiere)
+* eine Selbstkundgabe (was ich von mir zu erkennen gebe)
+* einen Beziehungshinweis (was ich von dir halte und wie ich zu dir stehe)
+* eine Appell (was ich bei dir erreichen möchte)
+
+#### Sachinformation
+
+Der **Sachinhalt** ist meist direkt ausgesprochen, wir sagen: "explizit". Im professionellen Kontext spielt er die Hauptrolle oder *sollte* er die Hauptrolle spielen.
+
+Auf der Sachebene eines Gesprächs gilt zum einen das *Wahrheitskriterium* wahr oder unwahr (zutreffend / nicht zutreffend), zum anderen das Kriterium der *Relevanz*: Sind die angeführten Sachverhalte für das anstehende Thema von Belang oder nicht? Zum Dritten erscheint das Kriterium der *Hinlänglichkeit*: Sind die angeführten Sachhinweise für das Thema ausreichend, oder muss vieles andere auch bedacht sein?
+
+Der Gesprächspartner hat somit auf der Sachebene viele Möglichkeiten "einzuhaken":
+
+ * er kann die Wahrheit der Sachverhalte anzweifeln
+ * er kann die Relevanz bezweifeln (die vorgetragenen Sachargumente stehen zum aktuellen Thema in keiner Beziehung)
+ * er kann die Hinlänglichkeit der Argumente anzweifeln in dem die Argumente in ihrer Bedeutung relativiert werden (z.B. durch hinzufügen von weiteren Sachargumenten oder die Kontroverse in eine grösseren Zusammenhang stellt).
+
+Die Sachebene des Gesprächs ist von grosser Bedeutung. die sach- und menschengerechten Lösungen stehen und fallen nicht selten mit der Qualität des Diskurses auf dieser Ebene.
+
+#### Selbstkundgabe
+
+TODO S. 37
 
 ### Teufelskreise
 
