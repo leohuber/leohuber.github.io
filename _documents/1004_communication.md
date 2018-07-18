@@ -2,7 +2,7 @@
 layout: document
 header: Communication
 title: Communication
-description: Theory and practice related to communication (according to Friedemann Schulz von Thun)
+description: Concepts and common approaches related to communication (according to Friedemann Schulz von Thun)
 category: 100
 ---
 
@@ -74,3 +74,60 @@ Situationsgerecht heisst, in Übereinstimmung mit dem äusseren Kontext zu hande
 #### Metakommunikativ
 
 Gelingt es mir, mich nach meiner eigenen Einschätzung stimmig zu verhalten, heisst das natürlich noch nicht, dass dieses Verhalten auch allen meinen Rollenpartnern gerecht werden muss. Die Auseinandersetzung über die Wirkung meines Führungsverhaltens steht also noch aus. Das Führungsverhalten zu überprüfen heisst im übrigen jedoch nicht, dass man es allen recht machen muss, sondern dass man etwas darüber erfährt, mit welchen positiven oder negativen Reaktionen auf das Führungsverhalten man umgehen muss.
+
+## Grundlagen der Kommunikationspsychologie
+
+### Das Kommunikationsquadrat
+
+Wenn ich als Mensch, wenn ich als Führungskraft etwas von mir gebe, bin ich auf vierfache Weise wirksam. Jede meiner Äusserungen enthält, ob ich will oder nicht, vier Botschaften gleichzeitig:
+
+* eine Sachinformation (worüber ich informiere)
+* eine Selbstkundgabe (was ich von mir zu erkennen gebe)
+* einen Beziehungshinweis (was ich von dir halte und wie ich zu dir stehe)
+* eine Appell (was ich bei dir erreichen möchte)
+
+#### Sachinformation
+
+Der **Sachinhalt** ist meist direkt ausgesprochen, wir sagen: "explizit". Im professionellen Kontext spielt er die Hauptrolle oder *sollte* er die Hauptrolle spielen.
+
+Auf der Sachebene eines Gesprächs gilt zum einen das *Wahrheitskriterium* wahr oder unwahr (zutreffend / nicht zutreffend), zum anderen das Kriterium der *Relevanz*: Sind die angeführten Sachverhalte für das anstehende Thema von Belang oder nicht? Zum Dritten erscheint das Kriterium der *Hinlänglichkeit*: Sind die angeführten Sachhinweise für das Thema ausreichend, oder muss vieles andere auch bedacht sein?
+
+Der Gesprächspartner hat somit auf der Sachebene viele Möglichkeiten "einzuhaken":
+
+ * er kann die Wahrheit der Sachverhalte anzweifeln
+ * er kann die Relevanz bezweifeln (die vorgetragenen Sachargumente stehen zum aktuellen Thema in keiner Beziehung)
+ * er kann die Hinlänglichkeit der Argumente anzweifeln in dem die Argumente in ihrer Bedeutung relativiert werden (z.B. durch hinzufügen von weiteren Sachargumenten oder die Kontroverse in eine grösseren Zusammenhang stellt).
+
+Die Sachebene des Gesprächs ist von grosser Bedeutung. die sach- und menschengerechten Lösungen stehen und fallen nicht selten mit der Qualität des Diskurses auf dieser Ebene.
+
+#### Selbstkundgabe
+
+Immer wenn ich etwas *von* mir gebe, gebe ich auch etwas von *mir* kund! Jede Äusserung enthält auch, ob ich will oder nicht, eine Selbstkundgabe. Sie enthält einen Hinweis darauf, was in mir vorgeht, wie mir ums Herz ist, wofür ich stehe und wie ich meine Rolle auffasse. Dies kann wiederum *explizit* geschehen ("Ich"-Botschaft) oder *implizit*.
+
+#### Beziehungshinweis
+
+Ob man will oder nicht, wenn man jemanden anspricht gibt man (durch Formulierung, Tonfall, Begleitmimik, Körperhaltung, etc.) auch zu erkennen, wie ich zum Anderen stehe und was ich von ihm halte - jedenfalls bezogen auf den aktuellen Gesprächsgegenstand. In jeder Äusserung steckt somit auch ein *Beziehungshinweis*, für welchen der Empfänger oft ein besonders sensibles und empfindliches Ohr besitzt.
+
+Tatsächlich werden Beziehungssignale meist *implizit* und *zwischen den Zeilen* gesendet. Das Nicht-Sprachliche, der Tonfall in der Stimme, die Mimik im Gesicht spielen hier eine viel grössere Rolle, als der sachorientierte Sender ahnt. Diese Kommunikationsebene ist besonders störanfällig, wenn die Beziehung überhaupt angespannt, belastet oder unklar ist. Darum geht es letztlich um Beziehungsverbesserung, denn in einer intakten Beziehung muss ich nicht jedes Wort auf die Goldwaage legen. Die soziale Kompetenz, die auf der Sachebene begann erweitert sich hier um eine zwischenmenschliche Dimension.
+
+Oft wird eine Beziehungsstörung auf der Sachebene ausgetragen und man kommt weder sachlich noch menschlich weiter. In diesem Fall ist es hilfreich zunächst die Störung auf der Beziehungsebene zu klären und wenn möglich zu beheben, bevor man wieder zur Sache zurückkommt.
+
+#### Apell
+
+TODO S. 40
+
+### Teufelskreise
+
+TODO S. 41
+
+### Das innere Team
+
+TODO S. 45
+
+### Das Werte- und Entwicklungsquadrat
+
+TODO S. 52
+
+### Situationsmodell
+
+TODO S. 59

@@ -1,6 +1,6 @@
 Categories:
 
-100: leadeship
+100: leadership
 110: meditation
 
 

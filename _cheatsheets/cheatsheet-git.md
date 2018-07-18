@@ -20,6 +20,21 @@ cheats:
     snippets:
       - text: 'TODO <a href="https://git-scm.com/book/en/v2/Git-Internals-Git-Objects">Git Objects</a>'
 
+  - title: Git configuration
+    column: 1
+    snippets:
+      - text: "The Git configuration file contains a number of variables that affect the Git commands' behavior. The <code>.git/config</code> file in each repository is used to store the configuration for that repository, and <code>$HOME/.gitconfig</code> is used to store a per-user configuration as fallback values for the <code>.git/config</code> file. The file <code>/etc/gitconfig</code> can be used to store a system-wide default configuration."
+      - text: "Each configuration file consists of sections and variables. A section and subsection is marked as follows:"
+        code: '[section "subsection"]'
+      - text: "In order to modify a system wide variable (system), a user variable (global) or a project specific variable, use the following command:"
+        class: bash
+        code: "git config [--system|--global] &lt;variable&gt; &lt;value&gt;"
+      - text: "Variables use the notation <code>&lt;section&gt;.&lt;subsection&gt;.&lt;variable&gt;</code>. See <a href='https://git-scm.com/docs/git-config'>variables</a> to find the possible git configuration settings."
+        code: |
+          # set user email and name
+          git config --global user.email &lt;email_address&gt;
+          git config --global user.name &lt;user_name&gt;
+
   - title: 'Git revision parameters'
     column: 1
     snippets:
@@ -39,28 +54,33 @@ cheats:
           # Create an annotaded tag
           git tag -a version_141
 
-  - title: Delete a local commit on master not pushed to origin yet
-    column: 1
+  - title: 'Git checkout'
+    column: 2
     snippets:
-      - class: bash
-        code: |
-          # switch branch
-          git checkout SNAPSHOT
-          # delete local master branch
-          git branch -D master
-          # checkout master branch from origin
-          git checkout origin/master -b master
-
-  - title: 'Set the current branch head (HEAD) to -3 commits'
-    column: 1
-    snippets:
-      - text: 'Set the current branch head (HEAD) to -3 commits and push to origin'
+      - text: 'Command to switch branches or restore working tree files'
         class: bash
         code: |
-          # reset hard and go back 3 commits
-          git reset --hard HEAD~3
-          # force push to origin
-          git push --force
+          # Create new branch and point HEAD at the branch
+          git checkout -b &lt;branch&gt;
+          # Checkout branch and perform 3-way merge with local changes
+          git checkout -m &lt;branch&gt;
+          # Revert changes to a file
+          git checkout -- &lt;file&gt;
+
+  - title: 'Git stash'
+    column: 2
+    snippets:
+      - text: 'Command to take the dirty state of the working directory and save it on a stack'
+        class: bash
+        code: |
+          # Push a new stash onto the stack
+          git stash
+          # List the content of the current stack
+          git stash list
+          # Apply most recent stash to working directory (stash will remain on the stack)
+          git stash apply
+          # Remove most recent stash from stack
+          git stash drop
 
   - title: 'Git log'
     column: 2
@@ -74,19 +94,6 @@ cheats:
           git log --oneline --decorate
           # Graphs
           git log --graph --oneline --decorate
-
-  - title: 'Git checkout'
-    column: 2
-    snippets:
-      - text: 'Command to switch branches or restore working tree files'
-        class: bash
-        code: |
-          # Create new branch and point HEAD at the branch
-          git checkout -b &lt;branch&gt;
-          # Checkout branch and perform 3-way merge with local changes
-          git checkout -m &lt;branch&gt;
-          # Revert changes to a file
-          git checkout -- &lt;file&gt;
 
   - title: 'Git difftool'
     column: 2
@@ -124,20 +131,28 @@ cheats:
           # Show only summary of diff
           git diff --summary
 
-  - title: Git configuration
+  - title: 'Set the current branch head (HEAD) to -3 commits'
     column: 2
     snippets:
-      - text: "The Git configuration file contains a number of variables that affect the Git commands' behavior. The <code>.git/config</code> file in each repository is used to store the configuration for that repository, and <code>$HOME/.gitconfig</code> is used to store a per-user configuration as fallback values for the <code>.git/config</code> file. The file <code>/etc/gitconfig</code> can be used to store a system-wide default configuration."
-      - text: "Each configuration file consists of sections and variables. A section and subsection is marked as follows:"
-        code: '[section "subsection"]'
-      - text: "In order to modify a system wide variable (system), a user variable (global) or a project specific variable, use the following command:"
+      - text: 'Set the current branch head (HEAD) to -3 commits and push to origin'
         class: bash
-        code: "git config [--system|--global] &lt;variable&gt; &lt;value&gt;"
-      - text: "Variables use the notation <code>&lt;section&gt;.&lt;subsection&gt;.&lt;variable&gt;</code>. See <a href='https://git-scm.com/docs/git-config'>variables</a> to find the possible git configuration settings."
         code: |
-          # set user email and name
-          git config --global user.email &lt;email_address&gt;
-          git config --global user.name &lt;user_name&gt;
+          # reset hard and go back 3 commits
+          git reset --hard HEAD~3
+          # force push to origin
+          git push --force
+
+  - title: Delete a local commit on master not pushed to origin yet
+    column: 2
+    snippets:
+      - class: bash
+        code: |
+          # switch branch
+          git checkout SNAPSHOT
+          # delete local master branch
+          git branch -D master
+          # checkout master branch from origin
+          git checkout origin/master -b master
 
 ---
 
