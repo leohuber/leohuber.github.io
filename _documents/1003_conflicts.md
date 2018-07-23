@@ -1,12 +1,10 @@
 ---
 layout: document
-header: Conflicts
-title: Conflicts
+header: Konflikte
+title: Konflikte
 description: Common approaches for resolving conflicts with teams and peoples
 category: 100
 ---
-
-# Konflikte
 
 Ein Konflikt erfüllt grundsätzlich folgende Bedingungen:
 

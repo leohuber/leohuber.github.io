@@ -1,12 +1,10 @@
 ---
 layout: document
-header: Questioning and Listening
-title: Questioning and Listening
+header: Fragen und Zuhören
+title: Fragen und Zuhören
 description: Concepts and common approaches for questioning and listening
 category: 100
 ---
-
-# Fragen und Zuhören
 
 ## Fragetechniken
 
@@ -61,13 +59,12 @@ Paraphrasierende Fragen werden bei der technik des aktiven Zuhörens eingesetzt 
 
 Auf bei der verbalisierunden Frage handelt es sich um eine technik des akiven Zuhörens (siehe unten). Die Verbalisierung ist nur scheinbar eine geschlossene Frage. In der Gesprächstherapie versteht man unter Verbalisierung die Wiedergabe des emotionalen Gehaltes einer Aussage oder eines Gespräches. Ziel ist es, das emotionale Verständnis zu prüfen und durch Empathie noch bestehende hemmende Gefühle abzubauen, um den Klienten zu einer weiteren Vertiefung der Selbst-Beobachtung zu führen.
 
-## Zuhören
 
-### Aktives Zuhören
+## Aktives Zuhören
 
 Unter [aktivem Zuhören](https://de.wikipedia.org/wiki/Aktives_Zuh%C3%B6ren) wird in der interpersonellen Kommunikation die gefühlsbetonte (affektive) Reaktion eines Gesprächspartners auf die Botschaft eines Sprechers verstanden.
 
-#### Aufnehmendes Zuhören
+### Aufnehmendes Zuhören
 
 Man sagt selbst wenig oder nichts und konzentriert sich auf das, was der Kommunikationspartner sagt. Durch Blickkontakt, Aufmerksamkeitslaute und das Spiegeln der Emotionen des Gesprächspartners zeigt man, dass man aktiv am Gespräch teilnimmt. Natürlich sagt man ab und zu auch etwas. Diese Art des Zuhörens bewährt sich sehr gut, wenn der Kommunikationspartner sehr emotional ist.
 
@@ -76,7 +73,7 @@ Man sagt selbst wenig oder nichts und konzentriert sich auf das, was der Kommuni
 * mmmh, ja, aha, ich verstehe
 * unterstützendes gelegentliches Nachfragen
 
-#### Paraphrasieren
+### Paraphrasieren
 
 Beim „Paraphrasieren“ wiederholt man mit eigenen Worten Informationen oder Argumente des Kommunikationspartners. Man formuliert hierbei am besten in der Frageform, um eventuell eine Korrektur zu ermöglichen. („Habe ich Sie richtig verstanden, dass…..? Meinten Sie ….? Haben Sie dies….gemeint?“) Das Wiederholen hilft Missverständnisse auszuschließen und man gewinnt Zeit, um sich in Ruhe eine gute Antwort zu überlegen.
 
@@ -84,7 +81,7 @@ Beim „Paraphrasieren“ wiederholt man mit eigenen Worten Informationen oder A
 * wiederholen
 * Zusammenfassen in eigenen Worten
 
-#### Verbalisieren
+### Verbalisieren
 
 Hier geht man auf die emotionalen, versteckten Botschaften des Gesprächs ein. Man gibt mit eigenen Worten die vermutlichen Stimmungen und Emotionen des Gesprächspartners wieder. Dies gilt nur, wenn die Gesprächssituation dies zulässt. Man sollte jedoch auch auf die Zwischentöne achten. Nicht was gesagt wird ist interessant, sondern vor allem, wie es gesagt wird. Hier ist der Tonfall, die Sprechweise und Sprechtempo gemeint. Wichtig ist, dass es sich um eine persönliche Wahrnehmung handelt und man bereit ist, Korrekturen und Widerspruch anzunehmen. Man sollte auch darauf achten weiche formulierungen zu verwenden: „ Ich habe den Eindruck, dass…“ „ Es kommt mir so vor, als ob….“. „ Ich habe das Gefühl, als ob…“.
 

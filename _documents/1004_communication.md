@@ -1,12 +1,10 @@
 ---
 layout: document
-header: Communication
-title: Communication
+header: Kommunikation
+title: Kommunikation
 description: Concepts and common approaches related to communication (according to Friedemann Schulz von Thun)
 category: 100
 ---
-
-# Kommunikation
 
 ## Stimmige Führung
 
@@ -114,7 +112,13 @@ Oft wird eine Beziehungsstörung auf der Sachebene ausgetragen und man kommt wed
 
 #### Apell
 
-TODO S. 40
+Wenn ich das Wort ergreife und an jemanden richte, will ich auch Einfluss nehmen. Ich will den anderen nicht nur "erreichen", sondern auch etwas "bei ihm erreichen". Die *Macht des Wortes* ist für Führungskräfte von besonderer Bedeutung, denn der Führungsauftrag enthällt die Herausforderung, Menschen zu leiten, zu bewegen und zu motivieren.
+
+Vorsicht ist geboten, wenn jemand ein Hinderniss überwinden muss. Es besteht die Gefahr, dass man in solchen Situationen doppelt forsch auftritt. Doppelte Forschheitbeim Ablehnen eines Wunsches löst in der Regel auch doppelte Reaktanz aus. Ein "Nein" kann leichter verdaut werden, wenn es mit einem "Ja" auf der Beziehungsebene verbunden ist.
+
+Auf der anderen Seite sollte eine Führungskraft auch das Appell-Ohr gut ausbilden. Welche Wünsche und Erwartungen werden an mich, offen oder verdeckt, herangetragen? Es geht dabei darum, ein offenes Ohr fü Wünsche zu entwickeln. Nicht, um sie unbedingt alle zu erfüllen, sondern um sie zu kennen, sich mit ihnen auseinander zu setzen und dem Mitarbeiter gehör zu verschaffen. Dieses "Gehör", dieses "Ernst genommen werden" kann wichtiger sein als die Wunscherfüllung selbst.
+
+**TODO: alles in der 3. Form (ohne ich)**
 
 ### Teufelskreise
 

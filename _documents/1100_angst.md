@@ -6,8 +6,6 @@ description: Einführungstexte des 7mind Kurses über Angst
 category: 110
 ---
 
-# Angst
-
 ### Der Angst ins Auge schauen
 
 Angst gehört zu den schwierigsten Gefühlen in unserem Alltag. Wir empfinden sie leicht als so beunruhigend, dass wir nicht nur Angst vor etwas bestimmten haben sondern auch davor, überhaupt Angst zu haben. Wir fühlen uns unbehaglich, wissen aber nicht genau warum eigentlich. Wenn wir aber den Mut haben der Angst ins Auge zu schauen, dann stellt sich oft unmittelbare Erleichterung ein, weil uns dann klar wird woran wir sind.

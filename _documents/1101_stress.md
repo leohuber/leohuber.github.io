@@ -6,8 +6,6 @@ description: Einführungstexte des 7mind Kurses über Stress
 category: 110
 ---
 
-# Stress
-
 ### Was ist Stress?
 
 Wenn zwischen unserem Innenleben und den Anforderungen der äusseren Lebenswelt eine zu grosse Diskrepanz entsteht, reagieren unser Körper und unser Geist mit Alarmsignalen. Ist die unbewusst wahrgenommene Gefahr vorüber, pendeln wir uns wieder in einem Zustand der Balance ein und entspannen uns. Da die äusseren Reize unserer modernen Lebenswelt zu meist nicht lebensbedrohlicher Natur sind nehmen wir diese Veränderungen meist nicht mehr wahr und verharren in einer latenten Alarmbereitschaft. Diesem Stressstau können wir jedoch entgegenwirken wenn wir ganz bewusst immer wieder unsere Befindlichkeit wahrnehmen und unserem Organismus auf diese Weise die Möglichkeit geben seine Balance wieder herzustellen.

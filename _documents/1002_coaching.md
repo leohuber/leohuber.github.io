@@ -6,7 +6,7 @@ description: Common approaches for coaching teams and peoples
 category: 100
 ---
 
-# Coaching
+## Ziel von Coaching
 
 Bei coaching geht es um
 
@@ -19,18 +19,18 @@ Zu beachten gilt es
 * Es kann nur eine Verhaltensentwicklung auf einmal gechoached werden
 * Kleine Schritte sind motivierend und sind nachhaltig
 
-### Eigenschaften eines Coaches
+## Eigenschaften eines Coaches
 
-#### Ingorant
+### Ingorant
 
 * Stellt viele Fragen und gibt keine Lösungen vor
 * Bleibt neutral
 
-#### Schizophren
+### Schizophren
 
 * Stellt die gleichen Fragen von verschiedenen Blickwinkeln aus
 
-#### Sadistisch
+### Sadistisch
 
 * Lässt nicht locker
 * bohrt nach und stellt auch unangenehme Fragen
@@ -58,14 +58,14 @@ Each of these options has its advantages and disadvantages. The coach might have
 
 ## STAR Formel
 
-#### Situation
+### Situation
 
 Als Basis für die anstehende Weiterentwicklung dienen die Fakten oder Resultate. Bei Minderleistungen geht es darum herauszufinden welches persönliche Verhalten dazu geführt hast, dass die Leistung nicht erbracht wurde.
 
 * Was ist die Ausgangssituation?
 * Was hat dazu geführt, dass das Ziel nicht erreicht wurde?
 
-#### Target
+### Target
 
 Bevor irgendwelche Aktvivitäten definiert und eingeleitet werden, ist es von zentraler Bedeutung, zuerst ein klares Zielfoto "Target" zu formulieren. Das heisst, zu beschreiben, was in ein paar Wochen / Monaten konkret anders sein wird oder sein soll. Es geht in diesem Punkt weniger um konkrete Produktionsziele, sonder um zu entwickelnde Fähigkeiten des Coachees. Das Target kann sowohl vom Coachee als auch vom Coach (falls Vorgesetzter) formuliert werden.
 
@@ -73,7 +73,7 @@ Bevor irgendwelche Aktvivitäten definiert und eingeleitet werden, ist es von ze
 * Was konkret wird zum Zeitpunkt X anders sein?
 * Was möchten Sie in X Wochen sagen können?
 
-#### Actions
+### Actions
 
 Um das Target zu erreichen, sind konkrete und verbindliche Aktivitäten notwendig. In dieser Phase geht es darum, die zielführendsten Tätigkeiten konkret auszuarbeiten. Zwecks Nachhaltigkeit und Motiviation sollte der Coachee wenn immer möglich die Aktivitäten selbst entwickeln. Allenfalls kann der Coache mit hypothetischen Fragen und Vorschlägen etwas nachhelfen.
 
@@ -82,7 +82,7 @@ Um das Target zu erreichen, sind konkrete und verbindliche Aktivitäten notwendi
 * Was können Sie sonst noch tun .... ?
 * .... und was auch noch?
 
-#### Result & Resources
+### Result & Resources
 
 Eine klare Zielvereinbarung machen und terminieren. Klären welche Resourcen der Coachee braucht um die Ziele zu erreichen.
 
