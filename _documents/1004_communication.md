@@ -116,13 +116,23 @@ Wenn ich das Wort ergreife und an jemanden richte, will ich auch Einfluss nehmen
 
 Vorsicht ist geboten, wenn jemand ein Hinderniss überwinden muss. Es besteht die Gefahr, dass man in solchen Situationen doppelt forsch auftritt. Doppelte Forschheitbeim Ablehnen eines Wunsches löst in der Regel auch doppelte Reaktanz aus. Ein "Nein" kann leichter verdaut werden, wenn es mit einem "Ja" auf der Beziehungsebene verbunden ist.
 
-Auf der anderen Seite sollte eine Führungskraft auch das Appell-Ohr gut ausbilden. Welche Wünsche und Erwartungen werden an mich, offen oder verdeckt, herangetragen? Es geht dabei darum, ein offenes Ohr fü Wünsche zu entwickeln. Nicht, um sie unbedingt alle zu erfüllen, sondern um sie zu kennen, sich mit ihnen auseinander zu setzen und dem Mitarbeiter gehör zu verschaffen. Dieses "Gehör", dieses "Ernst genommen werden" kann wichtiger sein als die Wunscherfüllung selbst.
+Auf der anderen Seite sollte eine Führungskraft auch das Appell-Ohr gut ausbilden. Welche Wünsche und Erwartungen werden an mich, offen oder verdeckt, herangetragen? Es geht dabei darum, ein offenes Ohr für Wünsche zu entwickeln. Nicht, um sie unbedingt alle zu erfüllen, sondern um sie zu kennen, sich mit ihnen auseinander zu setzen und dem Mitarbeiter gehör zu verschaffen. Dieses "Gehör", dieses "Ernst genommen werden" kann wichtiger sein als die Wunscherfüllung selbst.
 
 **TODO: alles in der 3. Form (ohne ich)**
 
 ### Teufelskreise
 
-TODO S. 41
+Wir kommen nun von der *Kommunikation* zur *Interaktion*, dem Hin und Her von Äusserung und Antwort, von Aktion und Reaktion. Im Unterschied zu Theorien und Mo, die das seelische Geschehen des Individuums in den Block nehmen (Klassische Psychoanalyse, Indiviualpsychologie, Humanistische PsychologieI, wirft das folgende Schema einen Block auf das *Zwischen*-Menschliche, auf die Beziehungsdynamik. Dies ist die Blickrichtung der Systemischen Psychologie, so genannt, weil sie das Verhalten und Erleben des Menschen nicht aus seiner innerseelischen Dynamik begreift, sondern aus den Gegebenheiten des sozialen Systems, innerhalb dessen er seinen Platz hat.
+
+Die «Systemtherapie» geht davon aus, dass die Ursache von Kommunikationsschwierigkeiten nicht (in erster Linie) beim einzelnen Menschen zu suchen sind, sondern im (Fehl-)Funktionieren des ganzen Regelsystems. Keiner ist "schuldig", sondern alle spielen nach den geltenden Regeln, niemand ist "krank", "pathologisch", "unreif" oder "bösartig", sondern der Einzelne zeigt ein Symptom, das für die Erhaltung des Gesamtsystems auf verborgene Weise unentbehrlich ist; unter diesem Blickwinkel ist der Fehler nicht länger beim Einzelnen, sondern im Regelkreis des Miteinander-Agierens und Aufeinander-Reagierens zu suchen.
+
+Das folgende Schema ist vor allem für die Erfassung der Situation der Beziehung zweier Menschen elementar:
+
+<div class="mb-4 mt-4 mx-auto d-flex justify-content-center flex-wrap">
+<img class="border" width="150px" data-width="10" data-height="10" data-action="zoom" src="../assets/img/documents/teufelskreis_allgemein.jpg">
+</div>
+
+In diesem Modell gibt es keinen Anfang und kein Ende. Die Wahrnehmung bzw. die
 
 ### Das innere Team
 
