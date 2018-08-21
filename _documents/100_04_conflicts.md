@@ -1,8 +1,8 @@
 ---
 layout: document
-header: Konflikte
+header: Leadership
 title: Konflikte
-description: Common approaches for resolving conflicts with teams and peoples
+description: Konzepte um Konflikte zu erkennen und optimal zu lösen
 category: 100
 ---
 

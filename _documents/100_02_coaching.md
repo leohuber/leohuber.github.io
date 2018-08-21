@@ -1,8 +1,8 @@
 ---
 layout: document
-header: Coaching
+header: Leadership
 title: Coaching
-description: Common approaches for coaching teams and peoples
+description: Konzepte für das Coaching von Personen und Teams
 category: 100
 ---
 

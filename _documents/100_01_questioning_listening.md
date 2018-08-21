@@ -1,8 +1,8 @@
 ---
 layout: document
-header: Fragen und Zuhören
+header: Leadership
 title: Fragen und Zuhören
-description: Concepts and common approaches for questioning and listening
+description: Konzepte und Theorie von Fragetechniken und vom aktiven Zuhören
 category: 100
 ---
 

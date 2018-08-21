@@ -3,7 +3,7 @@ layout: document
 header: Kommunikation
 title: Die Anatomie einer Nachricht
 description: Wenn jemand etwas von sich gibt ...
-category: 100
+category: 101
 ---
 
 Der Grundvorgang der zwischenmenschlichen Kommunikation ist schnell beschrieben. Da ist ein Sender, der etwas mitteilen möchte. Er verschlüsselt sein Anliegen in erkennbare Zeichen – wir nennen das, was er von sich gibt, seine Nachricht. Dem Empfänger obliegt es, dieses wahrnehmbare Gebilde zu entschlüsseln. Häufig machen Sender und Empfänger von der Möglichkeit Gebrauch, die Güte der Verständigung zu überprüfen: Dadurch, dass der Empfänger zurückmeldet, wie er die Nachricht entschlüsselt hat, wie sie bei ihm angekommen ist und was sie bei ihm angerichtet hat, kann der Sender halbwegs überprüfen, ob seine Sende-Absicht mit dem Empfangsresultat übereinstimmt. Eine solche Rückmeldung heißt auch Feedback.
@@ -15,7 +15,7 @@ Wenn ich als Mensch etwas von mir gebe, bin ich auf vierfache Weise wirksam. Jed
 * einen Beziehungshinweis (was ich von dir halte und wie ich zu dir stehe)
 * einen Appell (was ich bei dir erreichen möchte)
 
-# Sachinhalt
+## Sachinhalt
 
 Der **Sachinhalt** ist meist direkt ausgesprochen, wir sagen: "explizit". Im professionellen Kontext spielt er die Hauptrolle oder *sollte* er die Hauptrolle spielen.
 
@@ -29,13 +29,13 @@ Der Gesprächspartner hat somit auf der Sachebene viele Möglichkeiten "einzuhak
 
 Die Sachebene des Gesprächs ist von grosser Bedeutung. die sach- und menschengerechten Lösungen stehen und fallen nicht selten mit der Qualität des Diskurses auf dieser Ebene.
 
-# Selbstoffenbahrung
+## Selbstoffenbahrung
 
 Immer wenn ich etwas *von* mir gebe, gebe ich auch etwas von *mir* kund! Jede Äusserung enthält auch, ob ich will oder nicht, eine Selbstoffenbahrung. Sie enthält einen Hinweis darauf, was in mir vorgeht, wie mir ums Herz ist, wofür ich stehe und wie ich meine Rolle auffasse. Dies kann wiederum *explizit* geschehen ("Ich"-Botschaft) oder *implizit*.
 
 Der Begriff Selbstoffenbahrung beinhaltet sowohl die gewollte Selbstdahrstellung als auch die unfreiwillige Selbstenthüllung.
 
-# Beziehungshinweis
+## Beziehungshinweis
 
 Ob man will oder nicht, wenn man jemanden anspricht, gibt man (durch Formulierung, Tonfall, Begleitmimik, Körperhaltung, etc.) auch zu erkennen, wie ich zum Anderen stehe und was ich von ihm halte - jedenfalls bezogen auf den aktuellen Gesprächsgegenstand. In jeder Äusserung steckt somit auch ein *Beziehungshinweis*, für welchen der Empfänger oft ein besonders sensibles und empfindliches Ohr besitzt.
 
@@ -49,7 +49,7 @@ Des weiteren enthält die Beziehungsseite aber auch eine Botschaft darüber, wie
 
 Während also die Selbstoffenbarungsseite (vom Sender aus betrachtet) Ich-Botschaften enthält, enthält die Beziehungsseite einerseits Du-Botschaften und andererseits Wir-Botschaften.
 
-# Apell
+## Apell
 
 Kaum etwas wird «nur so» gesagt – fast alle Nachrichten haben die Funktion, auf den Empfänger Einfluss zu nehmen. In unserem Beispiel lautet der Appell vielleicht: «Gib ein bisschen Gas, dann schaffen wir es noch bei grün!» Die Nachricht dient also (auch) dazu, den Empfänger zu veranlassen, bestimmte Dinge zu tun oder zu unterlassen, zu denken oder zu fühlen. Dieser Versuch, Einfluss zu nehmen, kann mehr oder minder offen oder versteckt sein – im letzteren Falle sprechen wir von Manipulation. Der manipulierende Sender scheut sich nicht, auch die anderen drei Seiten der Nachricht in den Dienst der Appellwirkung zu stellen. Wenn Sach-, Selbstoffenbarungs- und Beziehungsseite auf die Wirkungsverbesserung der Appellseite ausgerichtet werden, werden sie funktionalisiert, d.h. spiegeln nicht wider, was ist, sondern werden zum Mittel der Zielerreichung.
 
@@ -57,7 +57,7 @@ Für Führungskräfte hat der Apell eine besondere Bedeutung, denn der Führungs
 
 Vorsicht ist geboten, wenn jemand ein Hinderniss überwinden muss. Es besteht die Gefahr, dass man in solchen Situationen doppelt forsch auftritt. Doppelte Forschheitbeim Ablehnen eines Wunsches löst in der Regel auch doppelte Reaktanz aus. Ein "Nein" kann leichter verdaut werden, wenn es mit einem "Ja" auf der Beziehungsebene verbunden ist.
 
-# Die Nachricht als Gegenstand der Kommunikationsanalyse
+## Die Nachricht als Gegenstand der Kommunikationsanalyse
 
 TODO
 

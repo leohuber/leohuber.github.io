@@ -7,9 +7,17 @@ layout: default
     <h2>Leadership</h2>
     <div class="row">
         {% for item in site.documents %}
-            {% if item.category == 100 %}
-                {% include document_card.html %}
-            {% endif %}
+        {% if item.category == 100 %}
+        {% include document_card.html %}
+        {% endif %}
+        {% endfor %}
+    </div>
+    <h2>Kommunikation</h2>
+    <div class="row">
+        {% for item in site.documents %}
+        {% if item.category == 101 %}
+        {% include document_card.html %}
+        {% endif %}
         {% endfor %}
     </div>
     <h2>Meditation</h2>
@@ -18,6 +26,14 @@ layout: default
             {% if item.category == 110 %}
                 {% include document_card.html %}
             {% endif %}
+        {% endfor %}
+    </div>
+    <h2>Organization</h2>
+    <div class="row">
+        {% for item in site.documents %}
+        {% if item.category == 200 %}
+        {% include document_card.html %}
+        {% endif %}
         {% endfor %}
     </div>
 </div>

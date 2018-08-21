@@ -11,6 +11,11 @@ TODO
 
 * cheat sheet about influxdb commands
 
+* krypto:
+    * document about certificate file formats
+    * https://serverfault.com/questions/9708/what-is-a-pem-file-and-how-does-it-differ-from-other-openssl-generated-key-file
+    * https://www.cryptosys.net/pki/rsakeyformats.html
+
 * Shell:
     * shell scripts to document: find, aws, sed
     * shell: document less

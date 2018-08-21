@@ -1,8 +1,8 @@
 ---
 layout: document
-header: Feedback
+header: Leadership
 title: Feedback
-description: Concepts and common approaches and for giving honest, correct and fair feedback
+description: Konzepte für ein konstruktives und ehrliches Feedback
 category: 100
 ---
 

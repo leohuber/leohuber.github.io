@@ -1,8 +1,8 @@
 ---
 layout: document
-header: Führung
-title: Führung
-description: Konzepte und Theorie zum Thema Führung.
+header: Leadership
+title: Führung Allgemein
+description: Konzepte und Theorie zum Thema Führung
 category: 100
 ---
 
