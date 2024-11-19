@@ -1,24 +1,36 @@
-const path = require('path');
+import path from 'path';
+import { fileURLToPath } from 'url';
+import HtmlWebpackPlugin from 'html-webpack-plugin';
 
-module.exports = {
-  entry: './main.js',
+// Get the directory name
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+export default {
+  entry: './main.js', // Entry point for the application
   output: {
-    filename: 'bundle.js',
-    path: path.resolve(__dirname, 'dist'),
+    filename: 'main.js', // Output main file name
+    path: path.resolve(__dirname, 'dist'), // Output directory
   },
   module: {
     rules: [
       {
-        test: /\.js$/,
-        exclude: /node_modules/,
+        test: /\.js$/, // Apply this rule to .js files
+        exclude: /node_modules/, // Exclude node_modules directory
         use: {
-          loader: 'babel-loader',
+          loader: 'babel-loader', // Use babel-loader for transpiling
           options: {
-            presets: ['@babel/preset-env'],
+            presets: ['@babel/preset-env'], // Use preset-env for Babel
           },
         },
       },
     ],
   },
-  mode: 'development',
+  mode: 'development', // Set mode to development
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: './index.html', // Template HTML file
+      filename: 'index.html', // Output HTML file name
+    }),
+  ],
 };

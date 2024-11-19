@@ -1,6 +1,21 @@
 {
-  "devDependencies": {
-    "webpack": "^5.96.1",
-    "webpack-cli": "^5.1.4"
-  }
+  "name": "leohuber.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "babel-loader": "^8.2.2",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
 }
