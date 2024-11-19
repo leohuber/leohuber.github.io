@@ -2,6 +2,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import { CleanWebpackPlugin } from 'clean-webpack-plugin'; // Import CleanWebpackPlugin
+import SvgChunkWebpackPlugin from 'svg-chunk-webpack-plugin';
 
 // Get the directory name
 const __filename = fileURLToPath(import.meta.url);
@@ -23,8 +24,16 @@ const commonConfig = {
           options: {
             presets: ['@babel/preset-env'], // Use preset-env for Babel
           },
-        },
+        }
       },
+      {
+        test: /\.svg$/,
+        use: [
+          {
+            loader: SvgChunkWebpackPlugin.loader
+          }
+        ]
+      }
     ],
   },
   plugins: [
@@ -32,6 +41,9 @@ const commonConfig = {
     new HtmlWebpackPlugin({
       template: './index.html', // Template HTML file
       filename: 'index.html', // Output HTML file name
+    }),
+    new SvgChunkWebpackPlugin({
+      filename: 'vector.svg'
     }),
   ],
 };
