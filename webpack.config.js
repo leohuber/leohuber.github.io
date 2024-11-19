@@ -1,15 +1,16 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
+import { CleanWebpackPlugin } from 'clean-webpack-plugin'; // Import CleanWebpackPlugin
 
 // Get the directory name
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export default {
-  entry: './main.js', // Entry point for the application
+  entry: './index.js', // Entry point for the application
   output: {
-    filename: 'main.js', // Output main file name
+    filename: 'index.js', // Output main file name
     path: path.resolve(__dirname, 'dist'), // Output directory
   },
   module: {
@@ -28,6 +29,7 @@ export default {
   },
   mode: 'development', // Set mode to development
   plugins: [
+    new CleanWebpackPlugin(), // Add CleanWebpackPlugin to plugins array
     new HtmlWebpackPlugin({
       template: './index.html', // Template HTML file
       filename: 'index.html', // Output HTML file name
