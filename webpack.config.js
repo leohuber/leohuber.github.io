@@ -8,6 +8,11 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const commonConfig = {
+  entry: './index.js', // Entry point for the application
+  output: {
+    filename: 'index.js', // Output main file name
+    path: path.resolve(__dirname, 'dist'), // Output directory for production
+  },
   module: {
     rules: [
       {
@@ -32,21 +37,11 @@ const commonConfig = {
 };
 
 const developmentConfig = {
-  mode: 'development',
-  entry: './index.js', // Entry point for the application
-  output: {
-    filename: 'index.js', // Output main file name
-    path: path.resolve(__dirname, 'dist-dev'), // Output directory for development
-  }
+  mode: 'development'
 };
 
 const productionConfig = {
-  mode: 'production',
-  entry: './index.js', // Entry point for the application
-  output: {
-    filename: 'index.js', // Output main file name
-    path: path.resolve(__dirname, 'dist-prod'), // Output directory for production
-  }
+  mode: 'production'
 };
 
 export default (env) => {
