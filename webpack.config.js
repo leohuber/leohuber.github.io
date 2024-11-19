@@ -7,12 +7,7 @@ import { CleanWebpackPlugin } from 'clean-webpack-plugin'; // Import CleanWebpac
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-export default {
-  entry: './index.js', // Entry point for the application
-  output: {
-    filename: 'index.js', // Output main file name
-    path: path.resolve(__dirname, 'dist'), // Output directory
-  },
+const commonConfig = {
   module: {
     rules: [
       {
@@ -27,7 +22,6 @@ export default {
       },
     ],
   },
-  mode: 'development', // Set mode to development
   plugins: [
     new CleanWebpackPlugin(), // Add CleanWebpackPlugin to plugins array
     new HtmlWebpackPlugin({
@@ -35,4 +29,29 @@ export default {
       filename: 'index.html', // Output HTML file name
     }),
   ],
+};
+
+const developmentConfig = {
+  mode: 'development',
+  entry: './index.js', // Entry point for the application
+  output: {
+    filename: 'index.js', // Output main file name
+    path: path.resolve(__dirname, 'dist-dev'), // Output directory for development
+  }
+};
+
+const productionConfig = {
+  mode: 'production',
+  entry: './index.js', // Entry point for the application
+  output: {
+    filename: 'index.js', // Output main file name
+    path: path.resolve(__dirname, 'dist-prod'), // Output directory for production
+  }
+};
+
+export default (env) => {
+  if (env.production) {
+    return { ...commonConfig, ...productionConfig };
+  }
+  return { ...commonConfig, ...developmentConfig };
 };

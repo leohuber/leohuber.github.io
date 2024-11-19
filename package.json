@@ -5,7 +5,8 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "build": "webpack"
+    "build-dev": "webpack --env development",
+    "build-prod": "webpack --env production"
   },
   "dependencies": {
     "@babel/core": "^7.14.3",
