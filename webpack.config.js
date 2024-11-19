@@ -43,7 +43,9 @@ const commonConfig = {
       filename: 'index.html', // Output HTML file name
     }),
     new SvgChunkWebpackPlugin({
-      filename: 'vector.svg'
+      filename: 'sprites.svg',
+      generateSpritesManifest: true,
+			generateSpritesPreview: true
     }),
   ],
 };
