@@ -9,13 +9,23 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const commonConfig = {
-  entry: './index.js', // Entry point for the application
-  output: {
-    filename: 'index.js', // Output main file name
-    path: path.resolve(__dirname, 'dist'), // Output directory for production
+  entry: {
+    html: {
+      import: './index.html',
+      filename: 'index.html',
+      dependOn: 'jvs',
+    },
+    jvs: {
+      import: './index.js',
+      filename: 'index.js',
+    }
   },
   module: {
     rules: [
+      {
+        test: /\.html$/i,
+        loader: "html-loader",
+      },
       {
         test: /\.js$/, // Apply this rule to .js files
         exclude: /node_modules/, // Exclude node_modules directory

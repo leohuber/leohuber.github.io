@@ -1,8 +1,7 @@
-import './svg/example.svg';
-import './svg/circle.svg';
 import { greet, animateElement } from './modules/utils.js';
 import anime from './lib/anime.es.js';
+import u from './lib/umbrella.esm.js';
 
-greet('World');
+greet('World1');
 
 animateElement();
