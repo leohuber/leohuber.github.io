@@ -1,7 +1,6 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
-import { CleanWebpackPlugin } from 'clean-webpack-plugin'; // Import CleanWebpackPlugin
 import SvgChunkWebpackPlugin from 'svg-chunk-webpack-plugin';
 
 // Get the directory name
@@ -10,6 +9,7 @@ const __dirname = path.dirname(__filename);
 
 const commonConfig = {
   entry: './index.js', // Entry point for the application
+  devtool: false, // Disable source maps
   output: {
     filename: 'index.js', // Output main file name
     path: path.resolve(__dirname, 'dist'), // Output directory for production
@@ -37,14 +37,11 @@ const commonConfig = {
     ],
   },
   plugins: [
-    new CleanWebpackPlugin(), // Add CleanWebpackPlugin to plugins array
     new HtmlWebpackPlugin({
       template: './index.html', // Template HTML file
       filename: 'index.html', // Output HTML file name
     }),
-    new SvgChunkWebpackPlugin({
-      filename: 'vector.svg'
-    }),
+    new SvgChunkWebpackPlugin(),
   ],
 };
 

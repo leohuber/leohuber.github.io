@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "build-dev": "webpack --env development",
-    "build-prod": "webpack --env production"
+    "build-prod": "webpack --env production",
+    "build-svg": "webpack --env production --config webpack.svg.config.js"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
