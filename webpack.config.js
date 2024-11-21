@@ -1,7 +1,6 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
-import SvgChunkWebpackPlugin from 'svg-chunk-webpack-plugin';
 
 // Get the directory name
 const __filename = fileURLToPath(import.meta.url);
@@ -13,6 +12,7 @@ const commonConfig = {
   output: {
     filename: 'index.js', // Output main file name
     path: path.resolve(__dirname, 'dist'), // Output directory for production
+    clean: true, // Clean output directory before build
   },
   module: {
     rules: [
@@ -25,14 +25,6 @@ const commonConfig = {
             presets: ['@babel/preset-env'], // Use preset-env for Babel
           },
         }
-      },
-      {
-        test: /\.svg$/,
-        use: [
-          {
-            loader: SvgChunkWebpackPlugin.loader
-          }
-        ]
       }
     ],
   },
@@ -41,7 +33,6 @@ const commonConfig = {
       template: './index.html', // Template HTML file
       filename: 'index.html', // Output HTML file name
     }),
-    new SvgChunkWebpackPlugin(),
   ],
 };
 
